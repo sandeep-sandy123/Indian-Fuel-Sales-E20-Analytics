@@ -40,10 +40,10 @@ This project answers these business questions using end-to-end data analytics.
 
 The project uses four datasets:
 
-- Fuel_Sales.csv
-- Fuel_Stations.csv
-- Fuel_Prices.csv
-- Targets.csv
+- [Fuel_Sales.csv](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Data/Fuel_Prices.csv)
+- [Fuel_Stations.csv](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Data/Fuel_Stations.csv)
+- [Fuel_Prices.csv](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Data/Fuel_Prices.csv)
+- [Targets.csv](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Data/Targets.csv)
 
 ---
 
