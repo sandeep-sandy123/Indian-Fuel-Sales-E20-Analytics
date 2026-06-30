@@ -229,7 +229,7 @@ Indian-Fuel-Sales-E20-Analytics
 📧 sheeladattasandeep5@gmail.com
 
 🔗 LinkedIn:
-https://linkedin.com/in/sheela-dattasandeep-1b718a326
+[https://linkedin.com/in/sheela-dattasandeep-1b718a326](https://www.linkedin.com/in/sheela-datta-sandeep-1b718a326/)
 
 🔗 GitHub:
 https://github.com/sandeep-sandy123
