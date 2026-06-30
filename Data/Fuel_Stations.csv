@@ -1,0 +1,51 @@
+Station_ID,Station_Name,Dealer_Name,State,City,Opening_Year
+ST001,FuelHub Hyderabad 1,Dealer 1,Telangana,Hyderabad,2024
+ST002,FuelHub Bengaluru 2,Dealer 2,Karnataka,Bengaluru,2014
+ST003,FuelHub Chennai 3,Dealer 3,Tamil Nadu,Chennai,2014
+ST004,FuelHub Pune 4,Dealer 4,Maharashtra,Pune,2011
+ST005,FuelHub Visakhapatnam 5,Dealer 5,Andhra Pradesh,Visakhapatnam,2010
+ST006,FuelHub Hyderabad 6,Dealer 6,Telangana,Hyderabad,2011
+ST007,FuelHub Bengaluru 7,Dealer 7,Karnataka,Bengaluru,2020
+ST008,FuelHub Chennai 8,Dealer 8,Tamil Nadu,Chennai,2015
+ST009,FuelHub Pune 9,Dealer 9,Maharashtra,Pune,2013
+ST010,FuelHub Visakhapatnam 10,Dealer 10,Andhra Pradesh,Visakhapatnam,2021
+ST011,FuelHub Hyderabad 11,Dealer 11,Telangana,Hyderabad,2024
+ST012,FuelHub Bengaluru 12,Dealer 12,Karnataka,Bengaluru,2013
+ST013,FuelHub Chennai 13,Dealer 13,Tamil Nadu,Chennai,2020
+ST014,FuelHub Pune 14,Dealer 14,Maharashtra,Pune,2017
+ST015,FuelHub Visakhapatnam 15,Dealer 15,Andhra Pradesh,Visakhapatnam,2012
+ST016,FuelHub Hyderabad 16,Dealer 16,Telangana,Hyderabad,2012
+ST017,FuelHub Bengaluru 17,Dealer 17,Karnataka,Bengaluru,2016
+ST018,FuelHub Chennai 18,Dealer 18,Tamil Nadu,Chennai,2017
+ST019,FuelHub Pune 19,Dealer 19,Maharashtra,Pune,2024
+ST020,FuelHub Visakhapatnam 20,Dealer 20,Andhra Pradesh,Visakhapatnam,2024
+ST021,FuelHub Hyderabad 21,Dealer 21,Telangana,Hyderabad,2012
+ST022,FuelHub Bengaluru 22,Dealer 22,Karnataka,Bengaluru,2022
+ST023,FuelHub Chennai 23,Dealer 23,Tamil Nadu,Chennai,2010
+ST024,FuelHub Pune 24,Dealer 24,Maharashtra,Pune,2015
+ST025,FuelHub Visakhapatnam 25,Dealer 25,Andhra Pradesh,Visakhapatnam,2023
+ST026,FuelHub Hyderabad 26,Dealer 26,Telangana,Hyderabad,2019
+ST027,FuelHub Bengaluru 27,Dealer 27,Karnataka,Bengaluru,2010
+ST028,FuelHub Chennai 28,Dealer 28,Tamil Nadu,Chennai,2020
+ST029,FuelHub Pune 29,Dealer 29,Maharashtra,Pune,2012
+ST030,FuelHub Visakhapatnam 30,Dealer 30,Andhra Pradesh,Visakhapatnam,2020
+ST031,FuelHub Hyderabad 31,Dealer 31,Telangana,Hyderabad,2015
+ST032,FuelHub Bengaluru 32,Dealer 32,Karnataka,Bengaluru,2014
+ST033,FuelHub Chennai 33,Dealer 33,Tamil Nadu,Chennai,2011
+ST034,FuelHub Pune 34,Dealer 34,Maharashtra,Pune,2012
+ST035,FuelHub Visakhapatnam 35,Dealer 35,Andhra Pradesh,Visakhapatnam,2015
+ST036,FuelHub Hyderabad 36,Dealer 36,Telangana,Hyderabad,2016
+ST037,FuelHub Bengaluru 37,Dealer 37,Karnataka,Bengaluru,2018
+ST038,FuelHub Chennai 38,Dealer 38,Tamil Nadu,Chennai,2016
+ST039,FuelHub Pune 39,Dealer 39,Maharashtra,Pune,2019
+ST040,FuelHub Visakhapatnam 40,Dealer 40,Andhra Pradesh,Visakhapatnam,2021
+ST041,FuelHub Hyderabad 41,Dealer 41,Telangana,Hyderabad,2021
+ST042,FuelHub Bengaluru 42,Dealer 42,Karnataka,Bengaluru,2012
+ST043,FuelHub Chennai 43,Dealer 43,Tamil Nadu,Chennai,2020
+ST044,FuelHub Pune 44,Dealer 44,Maharashtra,Pune,2021
+ST045,FuelHub Visakhapatnam 45,Dealer 45,Andhra Pradesh,Visakhapatnam,2022
+ST046,FuelHub Hyderabad 46,Dealer 46,Telangana,Hyderabad,2016
+ST047,FuelHub Bengaluru 47,Dealer 47,Karnataka,Bengaluru,2016
+ST048,FuelHub Chennai 48,Dealer 48,Tamil Nadu,Chennai,2022
+ST049,FuelHub Pune 49,Dealer 49,Maharashtra,Pune,2013
+ST050,FuelHub Visakhapatnam 50,Dealer 50,Andhra Pradesh,Visakhapatnam,2012
