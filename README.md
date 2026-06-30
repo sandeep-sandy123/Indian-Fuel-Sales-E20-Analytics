@@ -167,20 +167,21 @@ The Excel dashboard includes:
 
 # 📷 Dashboard Preview
 
-### [Executive Overview]
+### Executive Overview
 
---- (https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Executive%20Overview%201.png)
----
-
-### [Sales & Customer Analysis]
-
---- (https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Sales%20%26%20Customer%20Analysis%202.png)
+(Add Page 1 Screenshot Here)
 
 ---
 
-### [E20 Fuel Adoption Analytics]
+### Sales & Customer Analysis
 
---- (https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/E20%20Fuel%20Adoption%20%26%20Business%20Impact%203.png)
+(Add Page 2 Screenshot Here)
+
+---
+
+### E20 Fuel Adoption Analytics
+
+(Add Page 3 Screenshot Here)
 
 ---
 
