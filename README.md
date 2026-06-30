@@ -181,7 +181,7 @@ The Excel dashboard includes:
 
 ### E20 Fuel Adoption Analytics
 
-(Add Page 3 Screenshot Here)
+![E20 Fuel Adoption Analytics](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Dashboard_Page3.png)
 
 ---
 
