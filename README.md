@@ -169,13 +169,13 @@ The Excel dashboard includes:
 
 ### Executive Overview
 
-[(Add Page 1 Screenshot Here)](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Dashboard_Page1.png)
+![Executive Overview](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Dashboard_Page1.png)
 
 ---
 
 ### Sales & Customer Analysis
 
-(Add Page 2 Screenshot Here)
+![Sales & Customer Analysis](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Dashboard_Page2.png)
 
 ---
 
