@@ -73,7 +73,7 @@ Business Insights
 
 ---
 
-# 🗄️ SQL Analysis
+# 🗄️ [SQL Analysis](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/SQL/E20%20Fuel%20Adoption%20%26%20Petrol%20Consumption%20Analytics.sql)
 
 The following SQL concepts were used:
 
@@ -102,7 +102,7 @@ The following SQL concepts were used:
 
 ---
 
-# 🐍 Python Analysis
+# 🐍 [Python Analysis](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Python/E20%20Fuel%20Adoption%20%26%20Petrol%20Consumption%20Analytics%20Dashboard-checkpoint.ipynb)
 
 Performed using **Pandas**.
 
@@ -167,21 +167,20 @@ The Excel dashboard includes:
 
 # 📷 Dashboard Preview
 
-### Executive Overview
+### [Executive Overview](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Executive%20Overview%201.png)
 
-[(Add Page 1 Screenshot Here)](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Executive%20Overview%201.png)
+[(Add Page 1 Screenshot Here)]
+---
+
+### [Sales & Customer Analysis](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Sales%20%26%20Customer%20Analysis%202.png)
+
+[(Add Page 2 Screenshot Here)]
 
 ---
 
-### Sales & Customer Analysis
+### [E20 Fuel Adoption Analytics](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/E20%20Fuel%20Adoption%20%26%20Business%20Impact%203.png)
 
-[(Add Page 2 Screenshot Here)](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Sales%20%26%20Customer%20Analysis%202.png)
-
----
-
-### E20 Fuel Adoption Analytics
-
-[(Add Page 3 Screenshot Here)](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/E20%20Fuel%20Adoption%20%26%20Business%20Impact%203.png)
+[(Add Page 3 Screenshot Here)]
 
 ---
 
