@@ -117,7 +117,7 @@ Tasks completed:
 
 ---
 
-# 📈 Excel Dashboard
+# 📈 [Excel Dashboard](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Excel/Indian_Fuel_Analytics_Dashboard.xlsx)
 
 The Excel dashboard includes:
 
