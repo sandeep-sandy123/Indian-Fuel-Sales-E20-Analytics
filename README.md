@@ -169,7 +169,7 @@ The Excel dashboard includes:
 
 ### Executive Overview
 
-(Add Page 1 Screenshot Here)
+[(Add Page 1 Screenshot Here)](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Dashboard_Page1.png)
 
 ---
 
