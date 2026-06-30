@@ -132,7 +132,7 @@ The Excel dashboard includes:
 
 # 📊 Power BI Dashboard
 
-## 📄 Page 1 – Executive Overview
+## 📄 [Page 1 – Executive Overview](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Executive%20Overview%201.png)
 
 - Revenue KPIs
 - Monthly Revenue Trend
@@ -142,7 +142,7 @@ The Excel dashboard includes:
 
 ---
 
-## 📄 Page 2 – Sales & Customer Analysis
+## 📄 [Page 2 – Sales & Customer Analysis](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/Sales%20%26%20Customer%20Analysis%202.png)
 
 - Revenue by Customer Type
 - Revenue vs Quantity
@@ -152,7 +152,7 @@ The Excel dashboard includes:
 
 ---
 
-## 📄 Page 3 – E20 Fuel Adoption Analytics
+## 📄 Page 3 – [E20 Fuel Adoption Analytics](https://github.com/sandeep-sandy123/Indian-Fuel-Sales-E20-Analytics/blob/main/Images/E20%20Fuel%20Adoption%20%26%20Business%20Impact%203.png)
 
 - Total E20 Revenue
 - Total E20 Quantity
