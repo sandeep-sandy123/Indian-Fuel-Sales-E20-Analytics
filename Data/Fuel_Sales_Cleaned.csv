@@ -1,0 +1,1001 @@
+Transaction_ID,Date,State,City,Station_ID,Fuel_Type,Customer_Type,Vehicle_Type,Quantity_Litres,Price_Per_Litre,Revenue,Payment_Mode,Column1,Column2,Month
+TXN000001,2025-05-26,Telangana,Hyderabad,ST008,Petrol,Commercial,Auto,15.71,109.53,1720.72,Cash,0,Mismatch,May
+TXN000002,2025-06-16,Karnataka,Bengaluru,ST045,E20,Commercial,Car,31.65,104.98,3322.62,Cash,1,Mismatch,June
+TXN000003,2025-02-13,Maharashtra,Pune,ST025,Petrol,Individual,Auto,28.86,109.03,3146.61,UPI,2,Mismatch,February
+TXN000004,2025-04-14,Telangana,Hyderabad,ST036,Diesel,Commercial,Bus,4.75,97.21,461.75,UPI,3,Mismatch,April
+TXN000005,2025-03-29,Telangana,Hyderabad,ST013,Petrol,Individual,Auto,4.91,109.91,539.66,UPI,4,Mismatch,March
+TXN000006,2025-01-18,Maharashtra,Pune,ST034,E20,Individual,Bus,79.76,107.04,8537.51,Card,5,Mismatch,January
+TXN000007,2025-06-03,Telangana,Hyderabad,ST042,Petrol,Individual,Car,58.45,110.26,6444.7,Cash,6,Mismatch,June
+TXN000008,2025-01-13,Maharashtra,Pune,ST037,Diesel,Individual,Auto,43.94,95.13,4180.01,Card,7,Mismatch,January
+TXN000009,2025-03-05,Andhra Pradesh,Visakhapatnam,ST036,Diesel,Commercial,Auto,65.72,94.35,6200.68,Card,8,Mismatch,March
+TXN000010,2025-01-20,Tamil Nadu,Chennai,ST047,E20,Individual,Car,42.64,105.02,4478.05,Cash,9,Mismatch,January
+TXN000011,2025-06-09,Telangana,Hyderabad,ST024,Diesel,Commercial,Bike,47.06,95.59,4498.47,Cash,10,Mismatch,June
+TXN000012,2025-03-11,Karnataka,Bengaluru,ST048,Petrol,Individual,Auto,26.39,107.04,2824.79,Cash,11,Mismatch,March
+TXN000013,2025-04-15,Telangana,Hyderabad,ST032,Petrol,Commercial,Car,24.92,108.81,2711.55,UPI,12,Mismatch,April
+TXN000014,2025-01-08,Telangana,Hyderabad,ST038,E20,Individual,Bus,61.45,105.48,6481.75,Card,13,Mismatch,January
+TXN000015,2025-04-25,Maharashtra,Pune,ST014,E20,Individual,Bus,21.92,105.8,2319.14,Card,14,Mismatch,April
+TXN000016,2025-04-04,Andhra Pradesh,Visakhapatnam,ST027,E20,Commercial,Truck,4.05,107.1,433.75,Cash,15,Mismatch,April
+TXN000017,2025-04-06,Tamil Nadu,Chennai,ST026,Diesel,Commercial,Auto,27.47,97.36,2674.48,Cash,16,Mismatch,April
+TXN000018,2025-02-10,Tamil Nadu,Chennai,ST020,E20,Individual,Bike,70.32,108.75,7647.3,Card,17,Mismatch,February
+TXN000019,2025-01-10,Tamil Nadu,Chennai,ST044,Petrol,Individual,Car,24.66,109.56,2701.75,Card,18,Mismatch,January
+TXN000020,2025-03-25,Telangana,Hyderabad,ST007,Petrol,Commercial,Truck,55.81,106.92,5967.21,Cash,19,Mismatch,March
+TXN000021,2025-05-25,Tamil Nadu,Chennai,ST035,E20,Commercial,Auto,12.95,106.94,1384.87,UPI,20,Mismatch,May
+TXN000022,2025-03-31,Telangana,Hyderabad,ST018,E20,Commercial,Bike,22.66,106.85,2421.22,UPI,21,Mismatch,March
+TXN000023,2025-06-07,Telangana,Hyderabad,ST028,Diesel,Commercial,Bus,27.59,95.78,2642.57,Card,22,Mismatch,June
+TXN000024,2025-03-22,Andhra Pradesh,Visakhapatnam,ST022,Diesel,Commercial,Auto,70.07,96.21,6741.43,UPI,23,Mismatch,March
+TXN000025,2025-05-07,Karnataka,Bengaluru,ST042,Diesel,Individual,Auto,47.63,94.88,4519.13,Card,24,Mismatch,May
+TXN000026,2025-04-01,Maharashtra,Pune,ST036,E20,Individual,Auto,43.27,105.56,4567.58,Cash,25,Mismatch,April
+TXN000027,2025-02-19,Tamil Nadu,Chennai,ST035,Diesel,Commercial,Bus,79.85,96.65,7717.5,Card,26,Mismatch,February
+TXN000028,2025-03-23,Karnataka,Bengaluru,ST038,E20,Individual,Car,44.37,106.07,4706.33,Cash,27,Mismatch,March
+TXN000029,2025-01-05,Karnataka,Bengaluru,ST023,Petrol,Individual,Bike,43.67,108.09,4720.29,Cash,28,Mismatch,January
+TXN000030,2025-05-25,Andhra Pradesh,Visakhapatnam,ST019,Diesel,Commercial,Bus,16.04,97.35,1561.49,Card,29,Mismatch,May
+TXN000031,2025-01-14,Karnataka,Bengaluru,ST024,Petrol,Individual,Auto,66.05,106.93,7062.73,UPI,30,Mismatch,January
+TXN000032,2025-05-10,Maharashtra,Pune,ST001,Diesel,Individual,Bus,55.33,95.47,5282.36,Card,31,Mismatch,May
+TXN000033,2025-05-15,Telangana,Hyderabad,ST033,Diesel,Individual,Car,47.27,97.68,4617.33,Card,32,Mismatch,May
+TXN000034,2025-04-23,Andhra Pradesh,Visakhapatnam,ST044,Diesel,Individual,Car,9.54,94.94,905.73,Card,33,Mismatch,April
+TXN000035,2025-04-18,Maharashtra,Pune,ST013,Diesel,Individual,Bus,63.63,95.98,6107.21,Cash,34,Mismatch,April
+TXN000036,2025-01-01,Andhra Pradesh,Visakhapatnam,ST016,Petrol,Commercial,Bike,2.89,107.38,310.33,Cash,35,Mismatch,January
+TXN000037,2025-01-06,Tamil Nadu,Chennai,ST048,Petrol,Commercial,Bike,44.24,107.26,4745.18,UPI,36,Mismatch,January
+TXN000038,2025-01-17,Tamil Nadu,Chennai,ST032,E20,Commercial,Car,63.67,106.64,6789.77,UPI,37,Mismatch,January
+TXN000039,2025-04-10,Tamil Nadu,Chennai,ST045,Diesel,Individual,Car,37.7,94.93,3578.86,UPI,38,Mismatch,April
+TXN000040,2025-05-06,Telangana,Hyderabad,ST021,E20,Individual,Auto,53.28,107.66,5736.12,Card,39,Mismatch,May
+TXN000041,2025-02-09,Andhra Pradesh,Visakhapatnam,ST031,Diesel,Individual,Car,9.76,95.18,928.96,Card,40,Mismatch,February
+TXN000042,2025-01-14,Maharashtra,Pune,ST038,E20,Individual,Bus,5.76,108.22,623.35,Card,41,Mismatch,January
+TXN000043,2025-01-08,Karnataka,Bengaluru,ST041,E20,Commercial,Car,36.01,105.05,3782.85,Cash,42,Mismatch,January
+TXN000044,2025-02-10,Telangana,Hyderabad,ST006,E20,Commercial,Auto,61.61,108.08,6658.81,Card,43,Mismatch,February
+TXN000045,2025-03-17,Tamil Nadu,Chennai,ST038,E20,Commercial,Truck,27.97,106.82,2987.76,Cash,44,Mismatch,March
+TXN000046,2025-02-16,Tamil Nadu,Chennai,ST017,E20,Commercial,Bike,65.32,108.38,7079.38,UPI,45,Mismatch,February
+TXN000047,2025-04-20,Telangana,Hyderabad,ST044,Petrol,Commercial,Bike,25.58,109.27,2795.13,UPI,46,Mismatch,April
+TXN000048,2025-05-06,Telangana,Hyderabad,ST047,Petrol,Commercial,Auto,41.0,108.13,4433.33,UPI,47,Mismatch,May
+TXN000049,2025-01-09,Karnataka,Bengaluru,ST006,Petrol,Individual,Bike,68.01,108.89,7405.61,Cash,48,Mismatch,January
+TXN000050,2025-03-07,Andhra Pradesh,Visakhapatnam,ST007,E20,Commercial,Auto,50.83,107.32,5455.08,Card,49,Mismatch,March
+TXN000051,2025-03-23,Andhra Pradesh,Visakhapatnam,ST028,Petrol,Individual,Auto,45.8,106.84,4893.27,Cash,50,Mismatch,March
+TXN000052,2025-02-21,Telangana,Hyderabad,ST017,Petrol,Commercial,Bike,32.07,109.63,3515.83,UPI,51,Mismatch,February
+TXN000053,2025-04-25,Maharashtra,Pune,ST049,Petrol,Individual,Bus,48.09,106.57,5124.95,Card,52,Mismatch,April
+TXN000054,2025-03-14,Telangana,Hyderabad,ST048,Diesel,Commercial,Auto,34.18,96.4,3294.95,Cash,53,Mismatch,March
+TXN000055,2025-04-28,Tamil Nadu,Chennai,ST015,Petrol,Individual,Truck,52.02,106.62,5546.37,Card,54,Mismatch,April
+TXN000056,2025-05-01,Tamil Nadu,Chennai,ST007,Diesel,Commercial,Truck,40.83,96.56,3942.54,Cash,55,Mismatch,May
+TXN000057,2025-03-08,Karnataka,Bengaluru,ST041,Petrol,Commercial,Truck,9.97,108.35,1080.25,Cash,56,Mismatch,March
+TXN000058,2025-01-07,Tamil Nadu,Chennai,ST045,Petrol,Individual,Bike,48.26,107.51,5188.43,Card,57,Mismatch,January
+TXN000059,2025-04-21,Karnataka,Bengaluru,ST036,Petrol,Individual,Bike,32.01,107.18,3430.83,UPI,58,Mismatch,April
+TXN000060,2025-01-02,Maharashtra,Pune,ST022,Diesel,Commercial,Bus,8.03,96.47,774.65,Card,59,Mismatch,January
+TXN000061,2025-06-12,Karnataka,Bengaluru,ST040,Diesel,Commercial,Bike,49.79,96.88,4823.66,Card,60,Mismatch,June
+TXN000062,2025-05-22,Karnataka,Bengaluru,ST050,E20,Individual,Truck,24.96,107.82,2691.19,Card,61,Mismatch,May
+TXN000063,2025-03-08,Tamil Nadu,Chennai,ST019,Diesel,Commercial,Bike,45.54,95.7,4358.18,UPI,62,Mismatch,March
+TXN000064,2025-02-12,Tamil Nadu,Chennai,ST013,Diesel,Commercial,Bike,54.62,95.41,5211.29,UPI,63,Mismatch,February
+TXN000065,2025-01-29,Maharashtra,Pune,ST045,Petrol,Commercial,Auto,56.32,110.18,6205.34,Card,64,Mismatch,January
+TXN000066,2025-04-21,Karnataka,Bengaluru,ST014,E20,Commercial,Bus,60.56,106.54,6452.06,Cash,65,Mismatch,April
+TXN000067,2025-05-26,Telangana,Hyderabad,ST036,Diesel,Commercial,Auto,27.06,94.93,2568.81,Cash,66,Mismatch,May
+TXN000068,2025-04-23,Karnataka,Bengaluru,ST038,Diesel,Individual,Bus,50.21,95.63,4801.58,UPI,67,Mismatch,April
+TXN000069,2025-03-11,Telangana,Hyderabad,ST007,Petrol,Individual,Bike,12.38,107.83,1334.94,Card,68,Mismatch,March
+TXN000070,2025-02-22,Tamil Nadu,Chennai,ST026,Diesel,Individual,Bike,68.84,96.62,6651.32,UPI,69,Mismatch,February
+TXN000071,2025-02-21,Tamil Nadu,Chennai,ST019,Petrol,Individual,Auto,38.01,109.97,4179.96,Cash,70,Mismatch,February
+TXN000072,2025-05-21,Tamil Nadu,Chennai,ST001,E20,Commercial,Car,3.61,106.93,386.02,UPI,71,Mismatch,May
+TXN000073,2025-04-18,Maharashtra,Pune,ST039,Diesel,Commercial,Bike,6.18,96.49,596.31,Cash,72,Mismatch,April
+TXN000074,2025-03-04,Tamil Nadu,Chennai,ST010,Diesel,Individual,Car,34.3,97.95,3359.68,UPI,73,Mismatch,March
+TXN000075,2025-06-24,Tamil Nadu,Chennai,ST013,Petrol,Individual,Truck,36.08,109.16,3938.49,UPI,74,Mismatch,June
+TXN000076,2025-05-13,Karnataka,Bengaluru,ST014,Petrol,Commercial,Auto,55.99,107.63,6026.2,UPI,75,Mismatch,May
+TXN000077,2025-05-07,Karnataka,Bengaluru,ST043,Petrol,Commercial,Bike,31.85,108.01,3440.12,Card,76,Mismatch,May
+TXN000078,2025-01-12,Telangana,Hyderabad,ST013,Petrol,Commercial,Bus,3.93,108.02,424.52,Card,77,Mismatch,January
+TXN000079,2025-04-20,Karnataka,Bengaluru,ST033,Petrol,Commercial,Bike,17.26,110.07,1899.81,UPI,78,Mismatch,April
+TXN000080,2025-01-27,Andhra Pradesh,Visakhapatnam,ST037,Petrol,Individual,Truck,28.78,107.77,3101.62,Cash,79,Mismatch,January
+TXN000081,2025-05-22,Telangana,Hyderabad,ST034,Diesel,Individual,Auto,18.11,97.62,1767.9,Card,80,Mismatch,May
+TXN000082,2025-05-21,Tamil Nadu,Chennai,ST041,Diesel,Commercial,Truck,73.36,96.23,7059.43,Card,81,Mismatch,May
+TXN000083,2025-04-09,Tamil Nadu,Chennai,ST004,E20,Commercial,Auto,19.65,106.94,2101.37,Card,82,Mismatch,April
+TXN000084,2025-03-01,Telangana,Hyderabad,ST045,Petrol,Individual,Car,6.56,109.17,716.16,Card,83,Mismatch,March
+TXN000085,2025-03-25,Tamil Nadu,Chennai,ST014,E20,Commercial,Auto,22.85,105.6,2412.96,Card,84,Mismatch,March
+TXN000086,2025-02-15,Andhra Pradesh,Visakhapatnam,ST017,Petrol,Commercial,Bike,61.41,106.88,6563.5,UPI,85,Mismatch,February
+TXN000087,2025-03-14,Telangana,Hyderabad,ST012,E20,Commercial,Car,26.19,105.24,2756.24,Card,86,Mismatch,March
+TXN000088,2025-03-30,Karnataka,Bengaluru,ST005,Diesel,Commercial,Truck,68.52,98.04,6717.7,Cash,87,Mismatch,March
+TXN000089,2025-04-05,Telangana,Hyderabad,ST047,Diesel,Commercial,Auto,29.18,94.93,2770.06,Card,88,Mismatch,April
+TXN000090,2025-03-04,Telangana,Hyderabad,ST040,Diesel,Individual,Auto,4.56,96.05,437.99,Card,89,Mismatch,March
+TXN000091,2025-06-19,Maharashtra,Pune,ST005,Petrol,Individual,Truck,19.44,108.44,2108.07,Cash,90,Mismatch,June
+TXN000092,2025-04-02,Telangana,Hyderabad,ST007,E20,Individual,Car,16.58,108.3,1795.61,UPI,91,Mismatch,April
+TXN000093,2025-03-06,Andhra Pradesh,Visakhapatnam,ST011,Petrol,Commercial,Bike,12.89,109.8,1415.32,UPI,92,Mismatch,March
+TXN000094,2025-03-30,Tamil Nadu,Chennai,ST018,Diesel,Individual,Truck,58.05,95.4,5537.97,Card,93,Mismatch,March
+TXN000095,2025-05-01,Maharashtra,Pune,ST032,Diesel,Individual,Bike,33.77,97.98,3308.78,Cash,94,Mismatch,May
+TXN000096,2025-02-27,Telangana,Hyderabad,ST024,Diesel,Individual,Auto,23.97,94.42,2263.25,UPI,95,Mismatch,February
+TXN000097,2025-04-16,Maharashtra,Pune,ST013,E20,Individual,Bike,71.14,107.06,7616.25,Card,96,Mismatch,April
+TXN000098,2025-05-16,Andhra Pradesh,Visakhapatnam,ST009,E20,Individual,Bike,67.94,106.89,7262.11,Cash,97,Mismatch,May
+TXN000099,2025-06-25,Tamil Nadu,Chennai,ST022,Petrol,Commercial,Car,23.92,109.59,2621.39,Cash,98,Mismatch,June
+TXN000100,2025-02-01,Telangana,Hyderabad,ST007,Petrol,Commercial,Bike,57.56,109.43,6298.79,UPI,99,Mismatch,February
+TXN000101,2025-05-13,Andhra Pradesh,Visakhapatnam,ST017,Petrol,Commercial,Auto,36.31,108.56,3941.81,UPI,100,Mismatch,May
+TXN000102,2025-04-30,Andhra Pradesh,Visakhapatnam,ST033,E20,Individual,Bike,57.52,107.19,6165.57,Cash,101,Mismatch,April
+TXN000103,2025-06-08,Karnataka,Bengaluru,ST021,Diesel,Individual,Bike,76.14,96.97,7383.3,Cash,102,Mismatch,June
+TXN000104,2025-04-14,Andhra Pradesh,Visakhapatnam,ST029,Petrol,Commercial,Car,54.43,109.77,5974.78,Cash,103,Mismatch,April
+TXN000105,2025-06-28,Andhra Pradesh,Visakhapatnam,ST021,Petrol,Individual,Bus,19.88,106.76,2122.39,Cash,104,Mismatch,June
+TXN000106,2025-02-07,Karnataka,Bengaluru,ST050,Petrol,Individual,Bus,30.49,110.13,3357.86,UPI,105,Mismatch,February
+TXN000107,2025-01-11,Tamil Nadu,Chennai,ST001,E20,Individual,Bus,37.34,106.73,3985.3,Card,106,Mismatch,January
+TXN000108,2025-06-26,Telangana,Hyderabad,ST042,Diesel,Individual,Bus,31.66,96.55,3056.77,Cash,107,Mismatch,June
+TXN000109,2025-04-13,Karnataka,Bengaluru,ST019,E20,Commercial,Truck,38.17,107.98,4121.6,UPI,108,Mismatch,April
+TXN000110,2025-05-25,Maharashtra,Pune,ST050,Diesel,Individual,Truck,11.23,95.68,1074.49,UPI,109,Mismatch,May
+TXN000111,2025-06-13,Andhra Pradesh,Visakhapatnam,ST010,Diesel,Commercial,Bike,61.81,96.46,5962.19,Cash,110,Mismatch,June
+TXN000112,2025-06-13,Maharashtra,Pune,ST049,Petrol,Commercial,Auto,25.97,109.56,2845.27,UPI,111,Mismatch,June
+TXN000113,2025-02-14,Andhra Pradesh,Visakhapatnam,ST046,E20,Individual,Truck,29.28,105.18,3079.67,Card,112,Mismatch,February
+TXN000114,2025-02-08,Maharashtra,Pune,ST019,E20,Individual,Auto,40.39,108.33,4375.45,Card,113,Mismatch,February
+TXN000115,2025-03-24,Andhra Pradesh,Visakhapatnam,ST038,Diesel,Commercial,Car,17.46,96.82,1690.48,Card,114,Mismatch,March
+TXN000116,2025-02-03,Maharashtra,Pune,ST044,Petrol,Commercial,Bus,6.15,110.01,676.56,Card,115,Mismatch,February
+TXN000117,2025-05-17,Telangana,Hyderabad,ST036,Diesel,Commercial,Bus,74.04,95.91,7101.18,Cash,116,Mismatch,May
+TXN000118,2025-06-07,Maharashtra,Pune,ST027,Diesel,Individual,Car,19.68,94.78,1865.27,Cash,117,Mismatch,June
+TXN000119,2025-06-10,Maharashtra,Pune,ST013,Diesel,Commercial,Car,38.48,95.33,3668.3,Card,118,Mismatch,June
+TXN000120,2025-05-01,Maharashtra,Pune,ST031,E20,Individual,Car,30.13,108.69,3274.83,UPI,119,Mismatch,May
+TXN000121,2025-04-30,Telangana,Hyderabad,ST002,Petrol,Individual,Truck,52.42,109.39,5734.22,Card,120,Mismatch,April
+TXN000122,2025-01-05,Telangana,Hyderabad,ST023,Diesel,Individual,Truck,72.02,94.87,6832.54,Card,121,Mismatch,January
+TXN000123,2025-04-18,Andhra Pradesh,Visakhapatnam,ST021,Petrol,Commercial,Car,21.29,107.71,2293.15,Card,122,Mismatch,April
+TXN000124,2025-02-08,Telangana,Hyderabad,ST027,Diesel,Commercial,Auto,73.4,95.03,6975.2,Card,123,Mismatch,February
+TXN000125,2025-06-20,Telangana,Hyderabad,ST026,Diesel,Individual,Car,28.71,95.17,2732.33,UPI,124,Mismatch,June
+TXN000126,2025-05-08,Andhra Pradesh,Visakhapatnam,ST024,Petrol,Individual,Car,12.82,109.38,1402.25,UPI,125,Mismatch,May
+TXN000127,2025-02-05,Telangana,Hyderabad,ST047,E20,Commercial,Car,29.83,105.95,3160.49,UPI,126,Mismatch,February
+TXN000128,2025-01-20,Maharashtra,Pune,ST028,Petrol,Individual,Auto,64.1,109.56,7022.8,UPI,127,Mismatch,January
+TXN000129,2025-04-16,Karnataka,Bengaluru,ST005,Diesel,Commercial,Auto,74.65,97.34,7266.43,Cash,128,Mismatch,April
+TXN000130,2025-05-03,Maharashtra,Pune,ST047,Diesel,Commercial,Car,14.09,97.58,1374.9,Cash,129,Mismatch,May
+TXN000131,2025-05-20,Karnataka,Bengaluru,ST026,Petrol,Commercial,Bike,21.2,107.53,2279.64,UPI,130,Mismatch,May
+TXN000132,2025-04-21,Tamil Nadu,Chennai,ST001,Petrol,Individual,Bike,25.22,108.55,2737.63,Card,131,Mismatch,April
+TXN000133,2025-03-07,Karnataka,Bengaluru,ST017,E20,Commercial,Truck,16.26,106.09,1725.02,UPI,132,Mismatch,March
+TXN000134,2025-02-11,Karnataka,Bengaluru,ST021,E20,Individual,Bike,14.94,106.43,1590.06,UPI,133,Mismatch,February
+TXN000135,2025-04-23,Andhra Pradesh,Visakhapatnam,ST035,Diesel,Commercial,Car,65.53,96.92,6351.17,UPI,134,Mismatch,April
+TXN000136,2025-03-30,Andhra Pradesh,Visakhapatnam,ST016,Diesel,Commercial,Bus,20.03,94.24,1887.63,UPI,135,Mismatch,March
+TXN000137,2025-05-26,Telangana,Hyderabad,ST048,E20,Commercial,Bike,8.64,104.86,905.99,UPI,136,Mismatch,May
+TXN000138,2025-02-06,Maharashtra,Pune,ST001,Petrol,Individual,Bus,25.8,108.81,2807.3,Card,137,Mismatch,February
+TXN000139,2025-03-11,Maharashtra,Pune,ST029,Diesel,Commercial,Car,74.38,97.39,7243.87,UPI,138,Mismatch,March
+TXN000140,2025-05-06,Tamil Nadu,Chennai,ST043,Petrol,Individual,Truck,4.3,107.66,462.94,Card,139,Mismatch,May
+TXN000141,2025-04-12,Karnataka,Bengaluru,ST014,Petrol,Commercial,Car,41.75,109.56,4574.13,UPI,140,Mismatch,April
+TXN000142,2025-02-22,Tamil Nadu,Chennai,ST040,E20,Individual,Bus,33.75,107.53,3629.14,Cash,141,Mismatch,February
+TXN000143,2025-05-20,Maharashtra,Pune,ST030,E20,Commercial,Car,15.1,106.04,1601.2,Cash,142,Mismatch,May
+TXN000144,2025-03-10,Karnataka,Bengaluru,ST008,Petrol,Individual,Car,30.13,108.7,3275.13,UPI,143,Mismatch,March
+TXN000145,2025-04-01,Maharashtra,Pune,ST026,E20,Commercial,Car,35.03,105.0,3678.15,Cash,144,Mismatch,April
+TXN000146,2025-01-30,Tamil Nadu,Chennai,ST042,Petrol,Commercial,Truck,30.18,107.65,3248.88,Cash,145,Mismatch,January
+TXN000147,2025-06-27,Andhra Pradesh,Visakhapatnam,ST007,Diesel,Individual,Auto,42.88,97.39,4176.08,Card,146,Mismatch,June
+TXN000148,2025-03-05,Tamil Nadu,Chennai,ST035,Diesel,Commercial,Truck,12.51,96.96,1212.97,Cash,147,Mismatch,March
+TXN000149,2025-03-03,Maharashtra,Pune,ST022,Petrol,Commercial,Bus,78.1,109.43,8546.48,Card,148,Mismatch,March
+TXN000150,2025-04-19,Andhra Pradesh,Visakhapatnam,ST014,Petrol,Individual,Truck,30.06,108.13,3250.39,UPI,149,Mismatch,April
+TXN000151,2025-06-19,Tamil Nadu,Chennai,ST037,Petrol,Individual,Auto,68.72,108.88,7482.23,Cash,150,Mismatch,June
+TXN000152,2025-01-04,Telangana,Hyderabad,ST022,E20,Commercial,Bike,43.48,108.23,4705.84,Cash,151,Mismatch,January
+TXN000153,2025-05-31,Karnataka,Bengaluru,ST031,E20,Commercial,Truck,29.89,105.0,3138.45,Cash,152,Mismatch,May
+TXN000154,2025-05-22,Tamil Nadu,Chennai,ST027,Petrol,Commercial,Car,42.08,107.42,4520.23,Card,153,Mismatch,May
+TXN000155,2025-05-24,Karnataka,Bengaluru,ST017,E20,Commercial,Bike,45.0,106.56,4795.2,UPI,154,Mismatch,May
+TXN000156,2025-04-15,Andhra Pradesh,Visakhapatnam,ST031,E20,Commercial,Auto,52.49,106.63,5597.01,Cash,155,Mismatch,April
+TXN000157,2025-01-01,Maharashtra,Pune,ST035,E20,Individual,Truck,43.27,105.55,4567.15,Card,156,Mismatch,January
+TXN000158,2025-03-21,Telangana,Hyderabad,ST022,Petrol,Commercial,Auto,11.03,110.43,1218.04,Card,157,Mismatch,March
+TXN000159,2025-04-07,Telangana,Hyderabad,ST033,Petrol,Individual,Auto,41.23,109.13,4499.43,UPI,158,Mismatch,April
+TXN000160,2025-05-12,Maharashtra,Pune,ST026,E20,Commercial,Bike,47.23,105.37,4976.63,Card,159,Mismatch,May
+TXN000161,2025-01-08,Andhra Pradesh,Visakhapatnam,ST005,Diesel,Individual,Truck,8.95,95.69,856.43,Cash,160,Mismatch,January
+TXN000162,2025-03-01,Andhra Pradesh,Visakhapatnam,ST007,E20,Commercial,Bus,9.32,108.76,1013.64,Card,161,Mismatch,March
+TXN000163,2025-06-08,Telangana,Hyderabad,ST029,Diesel,Commercial,Truck,73.01,94.63,6908.94,Card,162,Mismatch,June
+TXN000164,2025-05-02,Andhra Pradesh,Visakhapatnam,ST031,E20,Commercial,Bus,63.19,107.54,6795.45,Cash,163,Mismatch,May
+TXN000165,2025-01-01,Maharashtra,Pune,ST016,E20,Individual,Truck,27.14,108.12,2934.38,UPI,164,Mismatch,January
+TXN000166,2025-04-16,Karnataka,Bengaluru,ST028,Diesel,Individual,Bike,7.35,95.95,705.23,Cash,165,Mismatch,April
+TXN000167,2025-03-05,Andhra Pradesh,Visakhapatnam,ST013,Petrol,Individual,Bike,35.12,110.05,3864.96,Card,166,Mismatch,March
+TXN000168,2025-05-02,Tamil Nadu,Chennai,ST009,Diesel,Individual,Bus,31.92,95.23,3039.74,Cash,167,Mismatch,May
+TXN000169,2025-03-21,Andhra Pradesh,Visakhapatnam,ST027,E20,Commercial,Car,77.17,108.06,8338.99,Cash,168,Mismatch,March
+TXN000170,2025-03-15,Tamil Nadu,Chennai,ST036,Diesel,Individual,Truck,61.95,94.99,5884.63,Cash,169,Mismatch,March
+TXN000171,2025-06-17,Telangana,Hyderabad,ST040,Diesel,Commercial,Car,14.24,95.26,1356.5,Card,170,Mismatch,June
+TXN000172,2025-02-26,Andhra Pradesh,Visakhapatnam,ST012,E20,Individual,Truck,76.25,106.88,8149.6,UPI,171,Mismatch,February
+TXN000173,2025-06-13,Maharashtra,Pune,ST039,Diesel,Commercial,Bus,54.36,98.0,5327.28,UPI,172,Mismatch,June
+TXN000174,2025-05-29,Karnataka,Bengaluru,ST001,Diesel,Commercial,Bus,79.09,97.85,7738.96,UPI,173,Mismatch,May
+TXN000175,2025-03-24,Maharashtra,Pune,ST048,Diesel,Commercial,Bus,53.33,97.86,5218.87,Card,174,Mismatch,March
+TXN000176,2025-06-08,Maharashtra,Pune,ST040,E20,Commercial,Auto,40.39,108.02,4362.93,Cash,175,Mismatch,June
+TXN000177,2025-01-28,Tamil Nadu,Chennai,ST026,Diesel,Commercial,Bike,49.84,98.1,4889.3,Cash,176,Mismatch,January
+TXN000178,2025-06-02,Telangana,Hyderabad,ST005,Diesel,Commercial,Truck,9.89,96.35,952.9,Cash,177,Mismatch,June
+TXN000179,2025-03-18,Telangana,Hyderabad,ST043,Petrol,Commercial,Bus,58.82,106.87,6286.09,Card,178,Mismatch,March
+TXN000180,2025-04-06,Telangana,Hyderabad,ST019,Diesel,Commercial,Car,2.02,94.7,191.29,Cash,179,Mismatch,April
+TXN000181,2025-01-25,Maharashtra,Pune,ST032,Diesel,Commercial,Bike,32.77,96.95,3177.05,UPI,180,Mismatch,January
+TXN000182,2025-04-02,Tamil Nadu,Chennai,ST030,Petrol,Individual,Auto,9.21,110.17,1014.67,UPI,181,Mismatch,April
+TXN000183,2025-01-08,Maharashtra,Pune,ST042,Diesel,Commercial,Car,75.03,98.18,7366.45,Card,182,Mismatch,January
+TXN000184,2025-01-26,Telangana,Hyderabad,ST024,Diesel,Individual,Car,22.44,96.42,2163.66,UPI,183,Mismatch,January
+TXN000185,2025-04-17,Tamil Nadu,Chennai,ST002,E20,Commercial,Truck,40.28,107.82,4342.99,Cash,184,Mismatch,April
+TXN000186,2025-04-05,Maharashtra,Pune,ST016,Diesel,Commercial,Car,14.47,95.27,1378.56,Card,185,Mismatch,April
+TXN000187,2025-02-03,Karnataka,Bengaluru,ST027,Diesel,Individual,Bus,59.52,97.07,5777.61,UPI,186,Mismatch,February
+TXN000188,2025-01-09,Tamil Nadu,Chennai,ST026,Diesel,Commercial,Car,8.79,97.79,859.57,Cash,187,Mismatch,January
+TXN000189,2025-03-09,Karnataka,Bengaluru,ST040,Petrol,Individual,Auto,69.61,107.65,7493.52,Card,188,Mismatch,March
+TXN000190,2025-02-08,Tamil Nadu,Chennai,ST035,Petrol,Individual,Bike,32.46,108.0,3505.68,Card,189,Mismatch,February
+TXN000191,2025-03-27,Tamil Nadu,Chennai,ST006,E20,Individual,Truck,76.25,107.14,8169.43,Cash,190,Mismatch,March
+TXN000192,2025-01-04,Maharashtra,Pune,ST019,E20,Individual,Auto,8.85,107.53,951.64,UPI,191,Mismatch,January
+TXN000193,2025-05-30,Telangana,Hyderabad,ST019,Diesel,Individual,Auto,2.45,96.02,235.25,UPI,192,Mismatch,May
+TXN000194,2025-01-19,Andhra Pradesh,Visakhapatnam,ST017,Petrol,Commercial,Car,4.6,107.14,492.84,UPI,193,Mismatch,January
+TXN000195,2025-05-15,Tamil Nadu,Chennai,ST036,Petrol,Individual,Truck,60.66,108.23,6565.23,UPI,194,Mismatch,May
+TXN000196,2025-06-23,Karnataka,Bengaluru,ST022,Petrol,Commercial,Bus,51.66,110.49,5707.91,UPI,195,Mismatch,June
+TXN000197,2025-01-05,Andhra Pradesh,Visakhapatnam,ST044,Diesel,Individual,Truck,51.94,96.34,5003.9,Cash,196,Mismatch,January
+TXN000198,2025-05-23,Telangana,Hyderabad,ST049,E20,Commercial,Bus,18.23,108.63,1980.32,Cash,197,Mismatch,May
+TXN000199,2025-01-12,Telangana,Hyderabad,ST025,Diesel,Commercial,Truck,37.1,94.94,3522.27,Card,198,Mismatch,January
+TXN000200,2025-02-19,Maharashtra,Pune,ST018,Diesel,Individual,Bike,21.19,97.35,2062.85,Card,199,Mismatch,February
+TXN000201,2025-03-12,Telangana,Hyderabad,ST006,Diesel,Commercial,Bus,28.8,95.6,2753.28,Card,200,Mismatch,March
+TXN000202,2025-06-16,Tamil Nadu,Chennai,ST005,Diesel,Individual,Bike,33.73,96.1,3241.45,Card,201,Mismatch,June
+TXN000203,2025-04-12,Karnataka,Bengaluru,ST021,Diesel,Commercial,Truck,6.9,96.35,664.81,UPI,202,Mismatch,April
+TXN000204,2025-06-29,Telangana,Hyderabad,ST003,Diesel,Commercial,Bus,8.24,95.11,783.71,Card,203,Mismatch,June
+TXN000205,2025-05-08,Tamil Nadu,Chennai,ST050,Diesel,Commercial,Bike,32.08,98.13,3148.01,UPI,204,Mismatch,May
+TXN000206,2025-01-30,Andhra Pradesh,Visakhapatnam,ST018,E20,Commercial,Auto,17.59,105.07,1848.18,UPI,205,Mismatch,January
+TXN000207,2025-05-17,Maharashtra,Pune,ST039,Petrol,Commercial,Truck,18.55,108.63,2015.09,UPI,206,Mismatch,May
+TXN000208,2025-02-18,Tamil Nadu,Chennai,ST010,Diesel,Commercial,Bike,62.66,94.64,5930.14,Cash,207,Mismatch,February
+TXN000209,2025-01-30,Tamil Nadu,Chennai,ST008,Petrol,Commercial,Auto,20.41,107.49,2193.87,Card,208,Mismatch,January
+TXN000210,2025-03-13,Maharashtra,Pune,ST029,Petrol,Commercial,Truck,56.61,107.47,6083.88,Card,209,Mismatch,March
+TXN000211,2025-03-18,Karnataka,Bengaluru,ST026,Petrol,Commercial,Bike,46.52,109.0,5070.68,Cash,210,Mismatch,March
+TXN000212,2025-03-31,Telangana,Hyderabad,ST030,E20,Individual,Truck,71.96,106.01,7628.48,Card,211,Mismatch,March
+TXN000213,2025-03-20,Tamil Nadu,Chennai,ST028,Petrol,Commercial,Car,50.82,109.12,5545.48,Cash,212,Mismatch,March
+TXN000214,2025-01-17,Telangana,Hyderabad,ST049,E20,Individual,Auto,33.36,104.88,3498.8,Card,213,Mismatch,January
+TXN000215,2025-03-27,Telangana,Hyderabad,ST044,Diesel,Individual,Car,8.59,97.09,834.0,Card,214,Mismatch,March
+TXN000216,2025-03-12,Andhra Pradesh,Visakhapatnam,ST035,Diesel,Commercial,Bus,63.01,96.64,6089.29,Cash,215,Mismatch,March
+TXN000217,2025-04-25,Karnataka,Bengaluru,ST010,Diesel,Individual,Bus,63.62,98.16,6244.94,Card,216,Mismatch,April
+TXN000218,2025-01-23,Tamil Nadu,Chennai,ST049,Diesel,Commercial,Bus,16.7,94.46,1577.48,UPI,217,Mismatch,January
+TXN000219,2025-01-15,Karnataka,Bengaluru,ST001,Petrol,Commercial,Car,20.31,107.75,2188.4,UPI,218,Mismatch,January
+TXN000220,2025-06-04,Andhra Pradesh,Visakhapatnam,ST026,Diesel,Commercial,Car,46.44,94.97,4410.41,Card,219,Mismatch,June
+TXN000221,2025-06-05,Tamil Nadu,Chennai,ST046,Petrol,Commercial,Bus,62.0,107.36,6656.32,Card,220,Mismatch,June
+TXN000222,2025-03-20,Telangana,Hyderabad,ST011,E20,Commercial,Bike,43.62,106.73,4655.56,UPI,221,Mismatch,March
+TXN000223,2025-03-06,Tamil Nadu,Chennai,ST015,Diesel,Commercial,Auto,51.12,95.67,4890.65,UPI,222,Mismatch,March
+TXN000224,2025-02-25,Maharashtra,Pune,ST023,Petrol,Individual,Truck,42.63,108.77,4636.87,Card,223,Mismatch,February
+TXN000225,2025-01-20,Andhra Pradesh,Visakhapatnam,ST039,E20,Commercial,Bus,37.13,106.9,3969.2,Cash,224,Mismatch,January
+TXN000226,2025-05-10,Tamil Nadu,Chennai,ST001,Petrol,Individual,Bus,21.65,109.34,2367.21,Card,225,Mismatch,May
+TXN000227,2025-05-02,Andhra Pradesh,Visakhapatnam,ST043,Petrol,Commercial,Auto,8.03,109.65,880.49,Cash,226,Mismatch,May
+TXN000228,2025-06-16,Tamil Nadu,Chennai,ST013,E20,Individual,Bus,22.63,105.98,2398.33,UPI,227,Mismatch,June
+TXN000229,2025-01-09,Karnataka,Bengaluru,ST027,E20,Commercial,Car,61.05,105.36,6432.23,Cash,228,Mismatch,January
+TXN000230,2025-03-01,Andhra Pradesh,Visakhapatnam,ST030,Petrol,Individual,Truck,69.89,109.8,7673.92,Card,229,Mismatch,March
+TXN000231,2025-06-12,Tamil Nadu,Chennai,ST005,Petrol,Individual,Car,55.97,107.24,6002.22,Card,230,Mismatch,June
+TXN000232,2025-04-09,Maharashtra,Pune,ST036,E20,Individual,Car,59.48,108.29,6441.09,Card,231,Mismatch,April
+TXN000233,2025-05-17,Karnataka,Bengaluru,ST034,Petrol,Individual,Bike,27.3,106.74,2914.0,Cash,232,Mismatch,May
+TXN000234,2025-03-29,Andhra Pradesh,Visakhapatnam,ST038,Diesel,Commercial,Bus,46.17,95.77,4421.7,Cash,233,Mismatch,March
+TXN000235,2025-01-21,Andhra Pradesh,Visakhapatnam,ST047,Diesel,Individual,Auto,15.91,97.86,1556.95,Card,234,Mismatch,January
+TXN000236,2025-05-25,Telangana,Hyderabad,ST036,Diesel,Individual,Auto,55.77,94.79,5286.44,UPI,235,Mismatch,May
+TXN000237,2025-06-27,Maharashtra,Pune,ST045,E20,Commercial,Truck,47.3,106.29,5027.52,Cash,236,Mismatch,June
+TXN000238,2025-01-27,Andhra Pradesh,Visakhapatnam,ST017,E20,Individual,Bus,25.86,107.12,2770.12,Card,237,Mismatch,January
+TXN000239,2025-06-10,Tamil Nadu,Chennai,ST049,E20,Individual,Car,73.32,107.86,7908.3,Card,238,Mismatch,June
+TXN000240,2025-06-09,Karnataka,Bengaluru,ST028,Petrol,Commercial,Bike,16.98,108.97,1850.31,Cash,239,Mismatch,June
+TXN000241,2025-04-22,Andhra Pradesh,Visakhapatnam,ST029,Diesel,Individual,Bus,11.36,97.45,1107.03,UPI,240,Mismatch,April
+TXN000242,2025-05-10,Tamil Nadu,Chennai,ST042,Diesel,Commercial,Truck,8.43,97.8,824.45,Cash,241,Mismatch,May
+TXN000243,2025-05-07,Telangana,Hyderabad,ST002,Petrol,Individual,Car,72.64,109.78,7974.42,Cash,242,Mismatch,May
+TXN000244,2025-01-27,Andhra Pradesh,Visakhapatnam,ST008,E20,Commercial,Auto,33.58,106.23,3567.2,Cash,243,Mismatch,January
+TXN000245,2025-06-07,Andhra Pradesh,Visakhapatnam,ST028,Petrol,Individual,Auto,64.24,109.18,7013.72,UPI,244,Mismatch,June
+TXN000246,2025-01-31,Karnataka,Bengaluru,ST042,Diesel,Individual,Truck,16.63,95.68,1591.16,UPI,245,Mismatch,January
+TXN000247,2025-01-23,Maharashtra,Pune,ST024,Petrol,Individual,Bike,67.7,107.3,7264.21,Card,246,Mismatch,January
+TXN000248,2025-02-24,Andhra Pradesh,Visakhapatnam,ST029,Diesel,Commercial,Auto,51.12,96.0,4907.52,UPI,247,Mismatch,February
+TXN000249,2025-05-16,Karnataka,Bengaluru,ST020,Diesel,Individual,Bus,42.63,97.44,4153.87,UPI,248,Mismatch,May
+TXN000250,2025-04-18,Maharashtra,Pune,ST012,Petrol,Individual,Auto,77.14,108.3,8354.26,UPI,249,Mismatch,April
+TXN000251,2025-03-15,Tamil Nadu,Chennai,ST032,E20,Commercial,Truck,54.68,108.36,5925.12,Card,250,Mismatch,March
+TXN000252,2025-04-06,Tamil Nadu,Chennai,ST014,Petrol,Individual,Car,17.5,106.82,1869.35,UPI,251,Mismatch,April
+TXN000253,2025-04-03,Telangana,Hyderabad,ST012,Petrol,Commercial,Bike,27.08,109.38,2962.01,UPI,252,Mismatch,April
+TXN000254,2025-05-07,Andhra Pradesh,Visakhapatnam,ST030,Diesel,Commercial,Truck,53.11,95.47,5070.41,Cash,253,Mismatch,May
+TXN000255,2025-02-02,Telangana,Hyderabad,ST017,E20,Commercial,Car,41.06,107.0,4393.42,Card,254,Mismatch,February
+TXN000256,2025-01-27,Karnataka,Bengaluru,ST011,E20,Commercial,Auto,29.21,106.41,3108.24,UPI,255,Mismatch,January
+TXN000257,2025-04-25,Tamil Nadu,Chennai,ST007,Diesel,Individual,Bike,65.18,96.08,6262.49,UPI,256,Mismatch,April
+TXN000258,2025-05-29,Andhra Pradesh,Visakhapatnam,ST010,Petrol,Commercial,Truck,79.18,110.24,8728.8,Card,257,Mismatch,May
+TXN000259,2025-02-12,Andhra Pradesh,Visakhapatnam,ST032,Petrol,Commercial,Truck,9.0,107.58,968.22,Cash,258,Mismatch,February
+TXN000260,2025-01-18,Tamil Nadu,Chennai,ST013,Diesel,Individual,Bus,59.07,95.16,5621.1,Card,259,Mismatch,January
+TXN000261,2025-06-04,Karnataka,Bengaluru,ST023,Diesel,Commercial,Truck,7.19,96.67,695.06,Card,260,Mismatch,June
+TXN000262,2025-03-05,Maharashtra,Pune,ST035,Petrol,Individual,Bus,21.93,108.81,2386.2,UPI,261,Mismatch,March
+TXN000263,2025-02-23,Tamil Nadu,Chennai,ST036,Petrol,Commercial,Auto,13.95,107.11,1494.18,Cash,262,Mismatch,February
+TXN000264,2025-01-19,Telangana,Hyderabad,ST028,Diesel,Commercial,Bus,9.33,95.69,892.79,UPI,263,Mismatch,January
+TXN000265,2025-03-05,Tamil Nadu,Chennai,ST002,Petrol,Commercial,Auto,43.72,109.86,4803.08,Cash,264,Mismatch,March
+TXN000266,2025-01-15,Karnataka,Bengaluru,ST035,Diesel,Individual,Auto,23.95,97.55,2336.32,UPI,265,Mismatch,January
+TXN000267,2025-01-22,Maharashtra,Pune,ST002,E20,Commercial,Car,27.92,108.42,3027.09,Cash,266,Mismatch,January
+TXN000268,2025-05-09,Karnataka,Bengaluru,ST031,Petrol,Commercial,Car,65.54,107.09,7018.68,UPI,267,Mismatch,May
+TXN000269,2025-01-07,Karnataka,Bengaluru,ST036,Petrol,Individual,Car,21.35,108.35,2313.27,Cash,268,Mismatch,January
+TXN000270,2025-01-14,Maharashtra,Pune,ST025,E20,Individual,Truck,30.76,106.33,3270.71,Card,269,Mismatch,January
+TXN000271,2025-05-29,Maharashtra,Pune,ST018,Diesel,Individual,Truck,73.39,97.46,7152.59,UPI,270,Mismatch,May
+TXN000272,2025-06-29,Maharashtra,Pune,ST007,Petrol,Commercial,Bus,11.3,108.69,1228.2,Cash,271,Mismatch,June
+TXN000273,2025-05-01,Andhra Pradesh,Visakhapatnam,ST001,Petrol,Individual,Truck,6.87,108.47,745.19,Cash,272,Mismatch,May
+TXN000274,2025-03-11,Andhra Pradesh,Visakhapatnam,ST030,Diesel,Individual,Bus,19.92,95.83,1908.93,Cash,273,Mismatch,March
+TXN000275,2025-02-27,Telangana,Hyderabad,ST028,E20,Individual,Car,12.3,106.02,1304.05,UPI,274,Mismatch,February
+TXN000276,2025-06-06,Telangana,Hyderabad,ST003,Petrol,Commercial,Truck,62.13,108.01,6710.66,Cash,275,Mismatch,June
+TXN000277,2025-05-30,Tamil Nadu,Chennai,ST023,Diesel,Individual,Auto,35.46,97.25,3448.49,Card,276,Mismatch,May
+TXN000278,2025-01-25,Karnataka,Bengaluru,ST020,Petrol,Commercial,Bike,27.39,110.43,3024.68,UPI,277,Mismatch,January
+TXN000279,2025-02-19,Tamil Nadu,Chennai,ST023,Diesel,Commercial,Car,25.57,95.47,2441.17,Card,278,Mismatch,February
+TXN000280,2025-05-17,Karnataka,Bengaluru,ST020,Petrol,Commercial,Bus,20.37,109.49,2230.31,UPI,279,Mismatch,May
+TXN000281,2025-03-01,Maharashtra,Pune,ST013,E20,Individual,Bike,23.19,104.87,2431.94,UPI,280,Mismatch,March
+TXN000282,2025-04-09,Andhra Pradesh,Visakhapatnam,ST040,E20,Individual,Bike,38.85,104.93,4076.53,Card,281,Mismatch,April
+TXN000283,2025-06-11,Maharashtra,Pune,ST043,Petrol,Commercial,Bus,35.57,108.65,3864.68,Card,282,Mismatch,June
+TXN000284,2025-01-29,Andhra Pradesh,Visakhapatnam,ST024,Petrol,Individual,Auto,20.06,110.0,2206.6,UPI,283,Mismatch,January
+TXN000285,2025-04-05,Telangana,Hyderabad,ST010,Diesel,Commercial,Truck,41.88,94.24,3946.77,UPI,284,Mismatch,April
+TXN000286,2025-02-23,Tamil Nadu,Chennai,ST016,Petrol,Commercial,Bike,2.61,108.68,283.65,UPI,285,Mismatch,February
+TXN000287,2025-01-14,Andhra Pradesh,Visakhapatnam,ST004,E20,Individual,Auto,35.23,106.78,3761.86,Card,286,Mismatch,January
+TXN000288,2025-06-25,Tamil Nadu,Chennai,ST019,Diesel,Individual,Bike,27.36,96.3,2634.77,Cash,287,Mismatch,June
+TXN000289,2025-04-28,Telangana,Hyderabad,ST016,Diesel,Individual,Truck,18.27,95.06,1736.75,Cash,288,Mismatch,April
+TXN000290,2025-06-19,Andhra Pradesh,Visakhapatnam,ST003,E20,Individual,Car,77.82,104.97,8168.77,UPI,289,Mismatch,June
+TXN000291,2025-02-11,Karnataka,Bengaluru,ST021,Diesel,Individual,Car,32.44,94.41,3062.66,Cash,290,Mismatch,February
+TXN000292,2025-05-25,Maharashtra,Pune,ST025,E20,Commercial,Bike,22.69,105.9,2402.87,Card,291,Mismatch,May
+TXN000293,2025-04-14,Maharashtra,Pune,ST021,Diesel,Individual,Truck,29.92,96.35,2882.79,Cash,292,Mismatch,April
+TXN000294,2025-01-15,Telangana,Hyderabad,ST013,Petrol,Commercial,Auto,35.47,107.85,3825.44,UPI,293,Mismatch,January
+TXN000295,2025-03-18,Maharashtra,Pune,ST017,Diesel,Individual,Car,30.17,94.47,2850.16,Cash,294,Mismatch,March
+TXN000296,2025-03-15,Telangana,Hyderabad,ST011,E20,Commercial,Car,5.05,107.66,543.68,Cash,295,Mismatch,March
+TXN000297,2025-06-11,Karnataka,Bengaluru,ST016,Diesel,Commercial,Bike,39.91,95.49,3811.01,Cash,296,Mismatch,June
+TXN000298,2025-06-26,Telangana,Hyderabad,ST003,E20,Individual,Bike,52.97,105.83,5605.82,Card,297,Mismatch,June
+TXN000299,2025-06-17,Andhra Pradesh,Visakhapatnam,ST050,Diesel,Commercial,Bus,17.25,96.46,1663.93,Card,298,Mismatch,June
+TXN000300,2025-01-03,Telangana,Hyderabad,ST020,Diesel,Commercial,Auto,50.72,94.5,4793.04,Card,299,Mismatch,January
+TXN000301,2025-06-02,Tamil Nadu,Chennai,ST036,Petrol,Individual,Car,77.62,109.98,8536.65,UPI,300,Mismatch,June
+TXN000302,2025-05-13,Maharashtra,Pune,ST040,Petrol,Commercial,Auto,2.51,108.19,271.56,UPI,301,Mismatch,May
+TXN000303,2025-04-27,Andhra Pradesh,Visakhapatnam,ST042,Petrol,Individual,Auto,73.22,109.14,7991.23,Cash,302,Mismatch,April
+TXN000304,2025-06-08,Tamil Nadu,Chennai,ST040,E20,Individual,Bus,42.61,105.74,4505.58,Card,303,Mismatch,June
+TXN000305,2025-04-11,Telangana,Hyderabad,ST012,Petrol,Individual,Bus,65.99,108.69,7172.45,Cash,304,Mismatch,April
+TXN000306,2025-01-19,Andhra Pradesh,Visakhapatnam,ST024,Petrol,Individual,Bike,59.46,107.4,6386.0,Card,305,Mismatch,January
+TXN000307,2025-04-11,Tamil Nadu,Chennai,ST040,Diesel,Commercial,Auto,73.04,94.85,6927.84,Cash,306,Mismatch,April
+TXN000308,2025-01-31,Karnataka,Bengaluru,ST038,E20,Individual,Bike,68.77,104.85,7210.53,Cash,307,Mismatch,January
+TXN000309,2025-02-21,Telangana,Hyderabad,ST048,E20,Commercial,Bus,4.53,107.0,484.71,Card,308,Mismatch,February
+TXN000310,2025-02-20,Telangana,Hyderabad,ST039,E20,Individual,Auto,68.22,104.92,7157.64,UPI,309,Mismatch,February
+TXN000311,2025-06-15,Tamil Nadu,Chennai,ST005,Diesel,Individual,Bike,64.02,97.95,6270.76,UPI,310,Mismatch,June
+TXN000312,2025-06-26,Karnataka,Bengaluru,ST006,Diesel,Commercial,Auto,19.51,97.46,1901.44,Cash,311,Mismatch,June
+TXN000313,2025-04-07,Maharashtra,Pune,ST041,Diesel,Commercial,Truck,61.21,97.47,5966.14,Cash,312,Mismatch,April
+TXN000314,2025-04-22,Tamil Nadu,Chennai,ST035,Petrol,Commercial,Bike,29.1,108.8,3166.08,UPI,313,Mismatch,April
+TXN000315,2025-05-26,Maharashtra,Pune,ST025,E20,Individual,Auto,5.04,108.56,547.14,Card,314,Mismatch,May
+TXN000316,2025-05-09,Andhra Pradesh,Visakhapatnam,ST016,E20,Individual,Bus,4.14,107.47,444.93,Card,315,Mismatch,May
+TXN000317,2025-04-02,Andhra Pradesh,Visakhapatnam,ST031,Petrol,Commercial,Car,3.58,107.8,385.92,Cash,316,Mismatch,April
+TXN000318,2025-02-02,Andhra Pradesh,Visakhapatnam,ST011,E20,Individual,Bike,5.86,108.72,637.1,Card,317,Mismatch,February
+TXN000319,2025-04-04,Maharashtra,Pune,ST029,Diesel,Individual,Bike,10.05,97.3,977.87,Card,318,Mismatch,April
+TXN000320,2025-05-09,Maharashtra,Pune,ST012,E20,Commercial,Truck,20.08,106.03,2129.08,Cash,319,Mismatch,May
+TXN000321,2025-04-08,Maharashtra,Pune,ST036,E20,Commercial,Bus,16.43,108.29,1779.2,Cash,320,Mismatch,April
+TXN000322,2025-05-02,Karnataka,Bengaluru,ST006,Diesel,Commercial,Car,46.89,94.65,4438.14,Card,321,Mismatch,May
+TXN000323,2025-05-06,Karnataka,Bengaluru,ST023,E20,Commercial,Auto,55.57,108.79,6045.46,UPI,322,Mismatch,May
+TXN000324,2025-03-25,Tamil Nadu,Chennai,ST041,Petrol,Individual,Bus,15.21,107.68,1637.81,Card,323,Mismatch,March
+TXN000325,2025-04-02,Karnataka,Bengaluru,ST040,Petrol,Commercial,Truck,66.22,107.22,7100.11,Cash,324,Mismatch,April
+TXN000326,2025-03-20,Tamil Nadu,Chennai,ST034,E20,Individual,Bus,52.38,108.61,5688.99,Card,325,Mismatch,March
+TXN000327,2025-01-01,Andhra Pradesh,Visakhapatnam,ST014,E20,Individual,Bike,41.86,105.94,4434.65,Cash,326,Mismatch,January
+TXN000328,2025-02-20,Karnataka,Bengaluru,ST038,E20,Commercial,Car,31.51,105.85,3335.33,UPI,327,Mismatch,February
+TXN000329,2025-02-27,Tamil Nadu,Chennai,ST030,E20,Commercial,Truck,17.36,105.87,1837.9,Cash,328,Mismatch,February
+TXN000330,2025-06-21,Tamil Nadu,Chennai,ST047,Diesel,Individual,Bus,29.27,95.68,2800.55,UPI,329,Mismatch,June
+TXN000331,2025-02-04,Karnataka,Bengaluru,ST014,Diesel,Individual,Auto,45.26,98.2,4444.53,UPI,330,Mismatch,February
+TXN000332,2025-06-01,Tamil Nadu,Chennai,ST040,Petrol,Individual,Car,67.09,106.91,7172.59,Card,331,Mismatch,June
+TXN000333,2025-04-13,Telangana,Hyderabad,ST001,Petrol,Individual,Car,74.2,109.61,8133.06,Card,332,Mismatch,April
+TXN000334,2025-01-11,Tamil Nadu,Chennai,ST050,Diesel,Individual,Car,41.22,95.62,3941.46,Card,333,Mismatch,January
+TXN000335,2025-01-14,Andhra Pradesh,Visakhapatnam,ST047,E20,Commercial,Bike,18.76,105.3,1975.43,Cash,334,Mismatch,January
+TXN000336,2025-04-30,Karnataka,Bengaluru,ST033,Petrol,Commercial,Car,37.1,108.61,4029.43,Card,335,Mismatch,April
+TXN000337,2025-05-18,Telangana,Hyderabad,ST007,Petrol,Individual,Bus,51.41,109.15,5611.4,Card,336,Mismatch,May
+TXN000338,2025-03-21,Maharashtra,Pune,ST032,E20,Commercial,Car,19.09,104.97,2003.88,Cash,337,Mismatch,March
+TXN000339,2025-03-14,Andhra Pradesh,Visakhapatnam,ST016,E20,Individual,Bike,51.03,105.92,5405.1,UPI,338,Mismatch,March
+TXN000340,2025-04-25,Andhra Pradesh,Visakhapatnam,ST022,E20,Commercial,Car,72.97,105.44,7693.96,UPI,339,Mismatch,April
+TXN000341,2025-01-25,Andhra Pradesh,Visakhapatnam,ST021,Diesel,Commercial,Bike,67.86,94.64,6422.27,Card,340,Mismatch,January
+TXN000342,2025-01-25,Maharashtra,Pune,ST002,E20,Individual,Bus,52.69,105.11,5538.25,Card,341,Mismatch,January
+TXN000343,2025-02-18,Andhra Pradesh,Visakhapatnam,ST007,Petrol,Individual,Bus,4.88,109.87,536.17,Card,342,Mismatch,February
+TXN000344,2025-02-25,Tamil Nadu,Chennai,ST014,E20,Commercial,Car,36.83,107.63,3964.01,Card,343,Mismatch,February
+TXN000345,2025-04-20,Maharashtra,Pune,ST032,E20,Individual,Car,63.12,105.8,6678.1,Cash,344,Mismatch,April
+TXN000346,2025-06-25,Maharashtra,Pune,ST021,E20,Commercial,Auto,48.74,106.04,5168.39,Card,345,Mismatch,June
+TXN000347,2025-06-12,Maharashtra,Pune,ST042,Petrol,Individual,Auto,5.58,109.55,611.29,Card,346,Mismatch,June
+TXN000348,2025-02-17,Karnataka,Bengaluru,ST040,E20,Commercial,Auto,27.19,107.94,2934.89,Cash,347,Mismatch,February
+TXN000349,2025-04-13,Telangana,Hyderabad,ST045,Petrol,Individual,Bus,22.33,109.11,2436.43,Cash,348,Mismatch,April
+TXN000350,2025-06-01,Maharashtra,Pune,ST023,Diesel,Individual,Bike,56.58,97.63,5523.91,Cash,349,Mismatch,June
+TXN000351,2025-05-31,Maharashtra,Pune,ST025,Petrol,Commercial,Truck,14.87,110.14,1637.78,Cash,350,Mismatch,May
+TXN000352,2025-01-04,Andhra Pradesh,Visakhapatnam,ST007,Diesel,Commercial,Car,4.18,96.66,404.04,UPI,351,Mismatch,January
+TXN000353,2025-03-22,Andhra Pradesh,Visakhapatnam,ST026,E20,Commercial,Bike,9.56,107.93,1031.81,UPI,352,Mismatch,March
+TXN000354,2025-05-17,Karnataka,Bengaluru,ST032,Petrol,Individual,Car,57.85,110.46,6390.11,Card,353,Mismatch,May
+TXN000355,2025-04-11,Andhra Pradesh,Visakhapatnam,ST030,E20,Individual,Car,10.61,107.7,1142.7,Card,354,Mismatch,April
+TXN000356,2025-04-29,Maharashtra,Pune,ST023,Petrol,Individual,Auto,44.37,107.53,4771.11,Cash,355,Mismatch,April
+TXN000357,2025-03-31,Andhra Pradesh,Visakhapatnam,ST009,Petrol,Individual,Bike,35.33,109.82,3879.94,Cash,356,Mismatch,March
+TXN000358,2025-05-18,Andhra Pradesh,Visakhapatnam,ST001,Diesel,Individual,Auto,49.29,96.34,4748.6,Cash,357,Mismatch,May
+TXN000359,2025-02-24,Karnataka,Bengaluru,ST017,E20,Individual,Truck,63.46,107.34,6811.8,Card,358,Mismatch,February
+TXN000360,2025-04-18,Maharashtra,Pune,ST013,E20,Commercial,Car,34.69,106.29,3687.2,Card,359,Mismatch,April
+TXN000361,2025-06-27,Karnataka,Bengaluru,ST021,Petrol,Commercial,Bus,51.69,107.28,5545.3,Card,360,Mismatch,June
+TXN000362,2025-04-13,Telangana,Hyderabad,ST032,Diesel,Commercial,Auto,50.81,96.05,4880.3,UPI,361,Mismatch,April
+TXN000363,2025-04-27,Maharashtra,Pune,ST019,E20,Commercial,Bike,56.77,106.66,6055.09,UPI,362,Mismatch,April
+TXN000364,2025-04-21,Karnataka,Bengaluru,ST007,Petrol,Commercial,Car,43.44,109.95,4776.23,UPI,363,Mismatch,April
+TXN000365,2025-06-24,Maharashtra,Pune,ST032,E20,Individual,Truck,29.13,107.81,3140.51,UPI,364,Mismatch,June
+TXN000366,2025-04-07,Maharashtra,Pune,ST024,E20,Individual,Car,23.25,107.34,2495.66,Card,365,Mismatch,April
+TXN000367,2025-02-17,Andhra Pradesh,Visakhapatnam,ST046,Diesel,Individual,Truck,68.27,97.25,6639.26,Cash,366,Mismatch,February
+TXN000368,2025-05-12,Karnataka,Bengaluru,ST046,Petrol,Commercial,Auto,31.37,107.57,3374.47,Card,367,Mismatch,May
+TXN000369,2025-02-20,Telangana,Hyderabad,ST028,E20,Individual,Car,10.44,108.3,1130.65,Card,368,Mismatch,February
+TXN000370,2025-01-01,Tamil Nadu,Chennai,ST035,E20,Individual,Bus,60.01,107.95,6478.08,Card,369,Mismatch,January
+TXN000371,2025-05-26,Andhra Pradesh,Visakhapatnam,ST050,E20,Commercial,Truck,47.35,107.84,5106.22,Card,370,Mismatch,May
+TXN000372,2025-03-08,Telangana,Hyderabad,ST023,Diesel,Individual,Bike,76.4,95.38,7287.03,UPI,371,Mismatch,March
+TXN000373,2025-02-18,Maharashtra,Pune,ST017,E20,Individual,Auto,16.87,105.16,1774.05,UPI,372,Mismatch,February
+TXN000374,2025-05-07,Karnataka,Bengaluru,ST032,Diesel,Commercial,Bus,58.52,97.68,5716.23,UPI,373,Mismatch,May
+TXN000375,2025-02-21,Tamil Nadu,Chennai,ST037,E20,Individual,Bike,63.03,105.21,6631.39,UPI,374,Mismatch,February
+TXN000376,2025-03-30,Tamil Nadu,Chennai,ST020,Diesel,Commercial,Bus,40.28,97.12,3911.99,UPI,375,Mismatch,March
+TXN000377,2025-02-25,Telangana,Hyderabad,ST021,E20,Individual,Auto,78.41,106.99,8389.09,Cash,376,Mismatch,February
+TXN000378,2025-04-28,Tamil Nadu,Chennai,ST041,Petrol,Commercial,Car,27.95,109.89,3071.43,UPI,377,Mismatch,April
+TXN000379,2025-04-10,Tamil Nadu,Chennai,ST022,Petrol,Individual,Truck,15.38,109.42,1682.88,UPI,378,Mismatch,April
+TXN000380,2025-02-13,Telangana,Hyderabad,ST048,Diesel,Individual,Auto,32.86,94.91,3118.74,Card,379,Mismatch,February
+TXN000381,2025-03-22,Andhra Pradesh,Visakhapatnam,ST003,Diesel,Individual,Bus,57.84,96.87,5602.96,Card,380,Mismatch,March
+TXN000382,2025-06-21,Maharashtra,Pune,ST012,Diesel,Commercial,Car,19.32,95.37,1842.55,Cash,381,Mismatch,June
+TXN000383,2025-04-06,Tamil Nadu,Chennai,ST007,Diesel,Individual,Truck,6.11,95.15,581.37,UPI,382,Mismatch,April
+TXN000384,2025-05-03,Andhra Pradesh,Visakhapatnam,ST042,Diesel,Commercial,Bike,23.28,94.9,2209.27,Card,383,Mismatch,May
+TXN000385,2025-01-12,Telangana,Hyderabad,ST027,Diesel,Commercial,Bike,8.88,96.29,855.06,Card,384,Mismatch,January
+TXN000386,2025-05-04,Telangana,Hyderabad,ST038,Petrol,Individual,Auto,7.22,108.09,780.41,UPI,385,Mismatch,May
+TXN000387,2025-06-28,Andhra Pradesh,Visakhapatnam,ST003,Diesel,Individual,Auto,72.4,94.3,6827.32,Card,386,Mismatch,June
+TXN000388,2025-01-20,Telangana,Hyderabad,ST035,Petrol,Individual,Bike,36.31,107.96,3920.03,UPI,387,Mismatch,January
+TXN000389,2025-06-25,Telangana,Hyderabad,ST050,E20,Individual,Bus,44.39,105.57,4686.25,Card,388,Mismatch,June
+TXN000390,2025-06-13,Andhra Pradesh,Visakhapatnam,ST037,E20,Commercial,Bike,38.38,105.66,4055.23,Cash,389,Mismatch,June
+TXN000391,2025-05-16,Telangana,Hyderabad,ST024,Petrol,Commercial,Auto,17.91,107.01,1916.55,Cash,390,Mismatch,May
+TXN000392,2025-06-08,Karnataka,Bengaluru,ST013,Petrol,Commercial,Auto,48.17,110.1,5303.52,UPI,391,Mismatch,June
+TXN000393,2025-02-12,Andhra Pradesh,Visakhapatnam,ST042,Petrol,Individual,Truck,55.28,109.42,6048.74,Cash,392,Mismatch,February
+TXN000394,2025-01-23,Tamil Nadu,Chennai,ST049,Diesel,Commercial,Truck,38.57,95.53,3684.59,Cash,393,Mismatch,January
+TXN000395,2025-05-07,Andhra Pradesh,Visakhapatnam,ST030,Petrol,Individual,Truck,71.73,108.35,7771.95,UPI,394,Mismatch,May
+TXN000396,2025-05-05,Telangana,Hyderabad,ST024,E20,Commercial,Bike,76.85,108.17,8312.86,Card,395,Mismatch,May
+TXN000397,2025-04-18,Karnataka,Bengaluru,ST031,Diesel,Commercial,Car,19.81,95.99,1901.56,Card,396,Mismatch,April
+TXN000398,2025-03-26,Telangana,Hyderabad,ST001,Petrol,Commercial,Bus,41.29,107.17,4425.05,Cash,397,Mismatch,March
+TXN000399,2025-01-19,Maharashtra,Pune,ST031,Petrol,Individual,Bike,24.87,109.67,2727.49,UPI,398,Mismatch,January
+TXN000400,2025-03-11,Telangana,Hyderabad,ST023,Diesel,Individual,Truck,26.24,97.56,2559.97,Cash,399,Mismatch,March
+TXN000401,2025-04-09,Andhra Pradesh,Visakhapatnam,ST008,Petrol,Individual,Auto,24.18,110.42,2669.96,Card,400,Mismatch,April
+TXN000402,2025-03-24,Andhra Pradesh,Visakhapatnam,ST018,Petrol,Individual,Bus,25.37,109.36,2774.46,Card,401,Mismatch,March
+TXN000403,2025-02-28,Tamil Nadu,Chennai,ST016,Diesel,Individual,Bus,22.45,97.99,2199.88,Cash,402,Mismatch,February
+TXN000404,2025-05-09,Tamil Nadu,Chennai,ST007,E20,Individual,Car,13.16,105.91,1393.78,Cash,403,Mismatch,May
+TXN000405,2025-02-05,Telangana,Hyderabad,ST050,Petrol,Commercial,Bike,34.16,107.31,3665.71,Cash,404,Mismatch,February
+TXN000406,2025-01-13,Telangana,Hyderabad,ST030,E20,Individual,Bike,50.82,106.18,5396.07,UPI,405,Mismatch,January
+TXN000407,2025-02-27,Tamil Nadu,Chennai,ST049,Diesel,Individual,Bus,40.41,97.11,3924.22,Card,406,Mismatch,February
+TXN000408,2025-04-23,Tamil Nadu,Chennai,ST035,Diesel,Commercial,Bus,16.48,94.84,1562.96,Card,407,Mismatch,April
+TXN000409,2025-01-09,Maharashtra,Pune,ST034,Diesel,Commercial,Car,39.48,96.88,3824.82,Card,408,Mismatch,January
+TXN000410,2025-06-16,Telangana,Hyderabad,ST045,Diesel,Individual,Truck,51.54,96.76,4987.01,Card,409,Mismatch,June
+TXN000411,2025-05-11,Karnataka,Bengaluru,ST049,Petrol,Individual,Bike,36.82,110.24,4059.04,UPI,410,Mismatch,May
+TXN000412,2025-04-23,Maharashtra,Pune,ST034,Diesel,Individual,Bus,58.67,97.88,5742.62,Cash,411,Mismatch,April
+TXN000413,2025-03-12,Karnataka,Bengaluru,ST012,E20,Commercial,Bus,20.61,107.88,2223.41,Card,412,Mismatch,March
+TXN000414,2025-04-15,Maharashtra,Pune,ST005,Diesel,Individual,Truck,63.5,94.52,6002.02,UPI,413,Mismatch,April
+TXN000415,2025-03-16,Karnataka,Bengaluru,ST042,Diesel,Commercial,Bus,11.54,95.2,1098.61,UPI,414,Mismatch,March
+TXN000416,2025-05-02,Telangana,Hyderabad,ST010,Diesel,Individual,Auto,59.28,96.21,5703.33,UPI,415,Mismatch,May
+TXN000417,2025-03-24,Maharashtra,Pune,ST046,Diesel,Individual,Car,41.42,97.45,4036.38,UPI,416,Mismatch,March
+TXN000418,2025-06-02,Telangana,Hyderabad,ST006,Diesel,Commercial,Auto,22.35,97.41,2177.11,Cash,417,Mismatch,June
+TXN000419,2025-03-08,Telangana,Hyderabad,ST024,E20,Commercial,Truck,61.52,106.52,6553.11,UPI,418,Mismatch,March
+TXN000420,2025-02-23,Telangana,Hyderabad,ST016,Petrol,Commercial,Bike,20.07,109.38,2195.26,Cash,419,Mismatch,February
+TXN000421,2025-05-22,Maharashtra,Pune,ST003,Petrol,Individual,Bike,10.86,109.21,1186.02,UPI,420,Mismatch,May
+TXN000422,2025-04-22,Telangana,Hyderabad,ST032,Petrol,Individual,Bus,78.65,107.0,8415.55,UPI,421,Mismatch,April
+TXN000423,2025-01-20,Telangana,Hyderabad,ST044,Diesel,Commercial,Truck,57.43,96.31,5531.08,UPI,422,Mismatch,January
+TXN000424,2025-02-11,Andhra Pradesh,Visakhapatnam,ST037,Diesel,Commercial,Bike,52.04,95.41,4965.14,Card,423,Mismatch,February
+TXN000425,2025-01-19,Maharashtra,Pune,ST029,E20,Individual,Auto,38.28,107.04,4097.49,UPI,424,Mismatch,January
+TXN000426,2025-02-04,Karnataka,Bengaluru,ST027,Petrol,Individual,Bus,18.75,108.62,2036.62,UPI,425,Mismatch,February
+TXN000427,2025-01-23,Tamil Nadu,Chennai,ST047,Petrol,Commercial,Car,62.91,109.75,6904.37,Cash,426,Mismatch,January
+TXN000428,2025-06-10,Karnataka,Bengaluru,ST042,Diesel,Individual,Auto,74.86,94.93,7106.46,UPI,427,Mismatch,June
+TXN000429,2025-01-10,Andhra Pradesh,Visakhapatnam,ST041,Petrol,Individual,Bus,62.03,107.56,6671.95,Cash,428,Mismatch,January
+TXN000430,2025-01-07,Tamil Nadu,Chennai,ST014,E20,Commercial,Truck,26.92,106.77,2874.25,Card,429,Mismatch,January
+TXN000431,2025-03-04,Karnataka,Bengaluru,ST015,Petrol,Individual,Car,46.43,108.82,5052.51,Cash,430,Mismatch,March
+TXN000432,2025-06-17,Maharashtra,Pune,ST030,Diesel,Individual,Bike,76.79,97.26,7468.6,Cash,431,Mismatch,June
+TXN000433,2025-06-15,Tamil Nadu,Chennai,ST020,Petrol,Commercial,Auto,67.04,107.68,7218.87,Card,432,Mismatch,June
+TXN000434,2025-01-06,Telangana,Hyderabad,ST012,Diesel,Commercial,Truck,14.03,94.43,1324.85,Cash,433,Mismatch,January
+TXN000435,2025-04-11,Maharashtra,Pune,ST018,E20,Individual,Truck,77.5,106.83,8279.33,UPI,434,Mismatch,April
+TXN000436,2025-04-21,Andhra Pradesh,Visakhapatnam,ST005,E20,Individual,Bike,8.17,107.22,875.99,Card,435,Mismatch,April
+TXN000437,2025-01-05,Andhra Pradesh,Visakhapatnam,ST045,Petrol,Individual,Bus,7.55,108.42,818.57,Card,436,Mismatch,January
+TXN000438,2025-01-16,Telangana,Hyderabad,ST020,Diesel,Commercial,Car,36.1,96.96,3500.26,Cash,437,Mismatch,January
+TXN000439,2025-04-11,Maharashtra,Pune,ST018,E20,Commercial,Auto,14.61,107.47,1570.14,Card,438,Mismatch,April
+TXN000440,2025-02-01,Telangana,Hyderabad,ST039,Petrol,Individual,Bike,29.26,109.78,3212.16,UPI,439,Mismatch,February
+TXN000441,2025-06-08,Karnataka,Bengaluru,ST001,Diesel,Commercial,Bus,61.38,97.05,5956.93,Cash,440,Mismatch,June
+TXN000442,2025-04-01,Karnataka,Bengaluru,ST033,Diesel,Individual,Bus,59.81,94.48,5650.85,Card,441,Mismatch,April
+TXN000443,2025-03-05,Maharashtra,Pune,ST005,E20,Individual,Bus,65.01,106.01,6891.71,Cash,442,Mismatch,March
+TXN000444,2025-05-14,Maharashtra,Pune,ST015,Petrol,Commercial,Bus,32.21,109.8,3536.66,Card,443,Mismatch,May
+TXN000445,2025-01-12,Andhra Pradesh,Visakhapatnam,ST039,Petrol,Commercial,Truck,53.0,106.6,5649.8,Cash,444,Mismatch,January
+TXN000446,2025-01-22,Maharashtra,Pune,ST019,Petrol,Commercial,Bus,11.08,107.71,1193.43,Card,445,Mismatch,January
+TXN000447,2025-02-05,Karnataka,Bengaluru,ST001,E20,Commercial,Bus,78.24,106.96,8368.55,UPI,446,Mismatch,February
+TXN000448,2025-01-21,Karnataka,Bengaluru,ST020,E20,Individual,Car,26.06,107.18,2793.11,Card,447,Mismatch,January
+TXN000449,2025-03-28,Tamil Nadu,Chennai,ST032,Petrol,Individual,Auto,43.81,107.12,4692.93,Card,448,Mismatch,March
+TXN000450,2025-02-04,Andhra Pradesh,Visakhapatnam,ST017,E20,Commercial,Truck,56.61,108.64,6150.11,UPI,449,Mismatch,February
+TXN000451,2025-03-09,Andhra Pradesh,Visakhapatnam,ST016,Diesel,Commercial,Bus,39.54,95.78,3787.14,UPI,450,Mismatch,March
+TXN000452,2025-01-04,Telangana,Hyderabad,ST030,Diesel,Individual,Bus,71.28,97.66,6961.2,Card,451,Mismatch,January
+TXN000453,2025-04-11,Andhra Pradesh,Visakhapatnam,ST027,E20,Individual,Bus,37.73,108.7,4101.25,UPI,452,Mismatch,April
+TXN000454,2025-02-06,Telangana,Hyderabad,ST024,E20,Individual,Car,45.96,106.75,4906.23,UPI,453,Mismatch,February
+TXN000455,2025-01-17,Karnataka,Bengaluru,ST041,E20,Commercial,Auto,18.44,108.13,1993.92,UPI,454,Mismatch,January
+TXN000456,2025-06-29,Andhra Pradesh,Visakhapatnam,ST033,Petrol,Commercial,Bus,8.93,110.34,985.34,Card,455,Mismatch,June
+TXN000457,2025-02-26,Maharashtra,Pune,ST018,Petrol,Individual,Truck,13.35,108.77,1452.08,Cash,456,Mismatch,February
+TXN000458,2025-06-26,Maharashtra,Pune,ST004,Diesel,Commercial,Bus,59.22,96.11,5691.63,UPI,457,Mismatch,June
+TXN000459,2025-03-19,Maharashtra,Pune,ST011,Petrol,Commercial,Car,39.13,109.68,4291.78,UPI,458,Mismatch,March
+TXN000460,2025-04-08,Telangana,Hyderabad,ST013,E20,Commercial,Bus,14.14,105.85,1496.72,Cash,459,Mismatch,April
+TXN000461,2025-01-31,Karnataka,Bengaluru,ST049,E20,Commercial,Car,7.19,108.71,781.62,UPI,460,Mismatch,January
+TXN000462,2025-03-06,Telangana,Hyderabad,ST047,E20,Commercial,Car,74.59,105.71,7884.91,Cash,461,Mismatch,March
+TXN000463,2025-01-12,Tamil Nadu,Chennai,ST001,Diesel,Individual,Auto,11.9,98.0,1166.2,UPI,462,Mismatch,January
+TXN000464,2025-01-06,Tamil Nadu,Chennai,ST020,Diesel,Commercial,Car,34.43,95.94,3303.21,Card,463,Mismatch,January
+TXN000465,2025-03-11,Telangana,Hyderabad,ST019,Diesel,Individual,Auto,35.51,97.71,3469.68,UPI,464,Mismatch,March
+TXN000466,2025-06-23,Maharashtra,Pune,ST003,E20,Individual,Bus,70.54,108.59,7659.94,UPI,465,Mismatch,June
+TXN000467,2025-03-07,Karnataka,Bengaluru,ST030,Diesel,Individual,Bus,77.56,95.94,7441.11,Cash,466,Mismatch,March
+TXN000468,2025-03-07,Maharashtra,Pune,ST015,Diesel,Commercial,Car,78.59,95.89,7536.0,UPI,467,Mismatch,March
+TXN000469,2025-04-30,Karnataka,Bengaluru,ST006,Petrol,Individual,Truck,6.29,108.06,679.7,Card,468,Mismatch,April
+TXN000470,2025-04-09,Tamil Nadu,Chennai,ST015,Diesel,Commercial,Auto,66.99,96.61,6471.9,Cash,469,Mismatch,April
+TXN000471,2025-05-25,Telangana,Hyderabad,ST015,Diesel,Commercial,Car,38.76,95.66,3707.78,Cash,470,Mismatch,May
+TXN000472,2025-01-26,Andhra Pradesh,Visakhapatnam,ST027,E20,Individual,Auto,38.88,107.67,4186.21,Cash,471,Mismatch,January
+TXN000473,2025-06-28,Maharashtra,Pune,ST034,Petrol,Individual,Auto,39.25,107.5,4219.38,Card,472,Mismatch,June
+TXN000474,2025-04-05,Telangana,Hyderabad,ST001,Diesel,Commercial,Truck,26.3,97.54,2565.3,UPI,473,Mismatch,April
+TXN000475,2025-02-02,Maharashtra,Pune,ST008,Petrol,Individual,Bike,5.66,107.3,607.32,Cash,474,Mismatch,February
+TXN000476,2025-06-27,Karnataka,Bengaluru,ST041,Diesel,Individual,Bike,11.97,95.59,1144.21,Card,475,Mismatch,June
+TXN000477,2025-01-30,Karnataka,Bengaluru,ST015,E20,Individual,Bike,45.28,106.17,4807.38,Cash,476,Mismatch,January
+TXN000478,2025-03-09,Andhra Pradesh,Visakhapatnam,ST022,E20,Commercial,Bus,24.52,108.08,2650.12,Cash,477,Mismatch,March
+TXN000479,2025-01-16,Telangana,Hyderabad,ST037,Diesel,Commercial,Truck,76.1,96.92,7375.61,Cash,478,Mismatch,January
+TXN000480,2025-01-24,Tamil Nadu,Chennai,ST045,Petrol,Commercial,Truck,12.21,110.38,1347.74,Card,479,Mismatch,January
+TXN000481,2025-04-24,Andhra Pradesh,Visakhapatnam,ST035,Petrol,Commercial,Truck,28.37,108.53,3079.0,Card,480,Mismatch,April
+TXN000482,2025-03-07,Andhra Pradesh,Visakhapatnam,ST044,Diesel,Commercial,Auto,12.69,97.54,1237.78,Cash,481,Mismatch,March
+TXN000483,2025-06-06,Andhra Pradesh,Visakhapatnam,ST029,Petrol,Individual,Truck,48.57,108.93,5290.73,UPI,482,Mismatch,June
+TXN000484,2025-06-26,Andhra Pradesh,Visakhapatnam,ST028,Diesel,Individual,Bus,14.68,96.3,1413.68,UPI,483,Mismatch,June
+TXN000485,2025-03-02,Maharashtra,Pune,ST016,Diesel,Commercial,Truck,65.63,94.88,6226.97,Card,484,Mismatch,March
+TXN000486,2025-02-28,Karnataka,Bengaluru,ST028,Diesel,Individual,Bike,41.5,97.57,4049.15,UPI,485,Mismatch,February
+TXN000487,2025-01-31,Maharashtra,Pune,ST006,Petrol,Commercial,Truck,40.98,107.08,4388.14,Card,486,Mismatch,January
+TXN000488,2025-01-31,Telangana,Hyderabad,ST012,Petrol,Commercial,Bus,23.91,108.51,2594.47,Card,487,Mismatch,January
+TXN000489,2025-06-15,Karnataka,Bengaluru,ST034,E20,Individual,Bus,56.48,108.33,6118.48,Cash,488,Mismatch,June
+TXN000490,2025-06-29,Telangana,Hyderabad,ST049,E20,Commercial,Bus,60.17,107.89,6491.74,UPI,489,Mismatch,June
+TXN000491,2025-06-01,Karnataka,Bengaluru,ST011,Petrol,Commercial,Car,68.09,107.43,7314.91,UPI,490,Mismatch,June
+TXN000492,2025-05-21,Karnataka,Bengaluru,ST006,Diesel,Commercial,Truck,14.68,96.58,1417.79,UPI,491,Mismatch,May
+TXN000493,2025-05-09,Telangana,Hyderabad,ST032,Petrol,Individual,Bus,52.23,107.99,5640.32,Card,492,Mismatch,May
+TXN000494,2025-06-03,Tamil Nadu,Chennai,ST019,E20,Individual,Bike,46.13,106.13,4895.78,Card,493,Mismatch,June
+TXN000495,2025-01-29,Tamil Nadu,Chennai,ST014,Diesel,Commercial,Truck,25.95,95.95,2489.9,UPI,494,Mismatch,January
+TXN000496,2025-05-06,Maharashtra,Pune,ST035,E20,Individual,Bike,35.27,108.46,3825.38,Cash,495,Mismatch,May
+TXN000497,2025-03-01,Andhra Pradesh,Visakhapatnam,ST021,Petrol,Individual,Truck,78.04,109.86,8573.47,Card,496,Mismatch,March
+TXN000498,2025-01-17,Andhra Pradesh,Visakhapatnam,ST046,E20,Commercial,Auto,65.21,108.55,7078.55,UPI,497,Mismatch,January
+TXN000499,2025-06-26,Karnataka,Bengaluru,ST002,Petrol,Individual,Auto,49.62,109.95,5455.72,UPI,498,Mismatch,June
+TXN000500,2025-02-15,Andhra Pradesh,Visakhapatnam,ST029,Diesel,Individual,Auto,20.79,96.06,1997.09,Card,499,Mismatch,February
+TXN000501,2025-04-13,Tamil Nadu,Chennai,ST043,Diesel,Individual,Truck,29.03,97.19,2821.43,Cash,500,Mismatch,April
+TXN000502,2025-06-19,Maharashtra,Pune,ST004,Petrol,Individual,Truck,35.74,106.67,3812.39,Card,501,Mismatch,June
+TXN000503,2025-03-28,Karnataka,Bengaluru,ST033,Petrol,Individual,Bus,7.77,110.48,858.43,Card,502,Mismatch,March
+TXN000504,2025-06-02,Maharashtra,Pune,ST036,Diesel,Individual,Bus,35.26,95.58,3370.15,UPI,503,Mismatch,June
+TXN000505,2025-05-27,Telangana,Hyderabad,ST032,E20,Commercial,Truck,48.57,107.2,5206.7,UPI,504,Mismatch,May
+TXN000506,2025-04-26,Telangana,Hyderabad,ST020,E20,Individual,Bus,31.27,106.54,3331.51,Cash,505,Mismatch,April
+TXN000507,2025-01-17,Tamil Nadu,Chennai,ST042,E20,Commercial,Auto,72.17,108.43,7825.39,Cash,506,Mismatch,January
+TXN000508,2025-03-26,Karnataka,Bengaluru,ST036,Petrol,Individual,Car,52.83,108.96,5756.36,Card,507,Mismatch,March
+TXN000509,2025-03-20,Maharashtra,Pune,ST044,Diesel,Commercial,Truck,60.18,96.62,5814.59,Card,508,Mismatch,March
+TXN000510,2025-03-19,Maharashtra,Pune,ST032,E20,Individual,Auto,5.87,106.23,623.57,UPI,509,Mismatch,March
+TXN000511,2025-06-04,Karnataka,Bengaluru,ST017,Petrol,Individual,Truck,28.22,110.26,3111.54,UPI,510,Mismatch,June
+TXN000512,2025-03-01,Telangana,Hyderabad,ST021,Petrol,Individual,Car,19.6,108.16,2119.94,UPI,511,Mismatch,March
+TXN000513,2025-03-17,Maharashtra,Pune,ST032,Petrol,Commercial,Bus,68.06,110.32,7508.38,Card,512,Mismatch,March
+TXN000514,2025-05-17,Tamil Nadu,Chennai,ST002,Petrol,Individual,Car,61.26,109.49,6707.36,Card,513,Mismatch,May
+TXN000515,2025-06-12,Tamil Nadu,Chennai,ST038,Diesel,Commercial,Auto,43.91,97.35,4274.64,UPI,514,Mismatch,June
+TXN000516,2025-04-06,Telangana,Hyderabad,ST022,E20,Individual,Truck,16.81,104.98,1764.71,UPI,515,Mismatch,April
+TXN000517,2025-06-01,Telangana,Hyderabad,ST027,Petrol,Commercial,Bike,61.08,108.1,6602.75,UPI,516,Mismatch,June
+TXN000518,2025-02-19,Karnataka,Bengaluru,ST010,E20,Commercial,Car,57.76,107.94,6234.61,UPI,517,Mismatch,February
+TXN000519,2025-06-18,Telangana,Hyderabad,ST032,Diesel,Individual,Bus,25.93,94.49,2450.13,Card,518,Mismatch,June
+TXN000520,2025-02-15,Karnataka,Bengaluru,ST011,Diesel,Commercial,Bus,59.98,95.73,5741.89,Card,519,Mismatch,February
+TXN000521,2025-06-20,Telangana,Hyderabad,ST044,E20,Commercial,Bus,13.34,107.83,1438.45,UPI,520,Mismatch,June
+TXN000522,2025-03-31,Maharashtra,Pune,ST042,Petrol,Individual,Auto,10.25,107.62,1103.11,UPI,521,Mismatch,March
+TXN000523,2025-01-21,Telangana,Hyderabad,ST024,Diesel,Commercial,Bus,42.3,97.51,4124.67,UPI,522,Mismatch,January
+TXN000524,2025-02-04,Karnataka,Bengaluru,ST033,E20,Commercial,Bike,78.34,104.81,8210.82,UPI,523,Mismatch,February
+TXN000525,2025-06-27,Maharashtra,Pune,ST001,Petrol,Commercial,Car,73.88,107.26,7924.37,UPI,524,Mismatch,June
+TXN000526,2025-01-31,Karnataka,Bengaluru,ST024,Petrol,Commercial,Car,15.71,107.21,1684.27,Card,525,Mismatch,January
+TXN000527,2025-01-13,Tamil Nadu,Chennai,ST043,E20,Individual,Truck,10.43,105.83,1103.81,Card,526,Mismatch,January
+TXN000528,2025-03-03,Andhra Pradesh,Visakhapatnam,ST011,E20,Commercial,Bus,55.12,108.49,5979.97,UPI,527,Mismatch,March
+TXN000529,2025-04-11,Andhra Pradesh,Visakhapatnam,ST047,Diesel,Individual,Bike,17.8,95.83,1705.77,Card,528,Mismatch,April
+TXN000530,2025-02-23,Maharashtra,Pune,ST013,Diesel,Commercial,Bike,28.55,98.09,2800.47,UPI,529,Mismatch,February
+TXN000531,2025-02-21,Tamil Nadu,Chennai,ST023,Petrol,Commercial,Truck,53.29,108.81,5798.48,UPI,530,Mismatch,February
+TXN000532,2025-03-28,Maharashtra,Pune,ST028,Diesel,Commercial,Bus,55.89,95.41,5332.46,Cash,531,Mismatch,March
+TXN000533,2025-05-21,Karnataka,Bengaluru,ST012,Petrol,Individual,Car,70.69,106.53,7530.61,UPI,532,Mismatch,May
+TXN000534,2025-06-16,Karnataka,Bengaluru,ST007,Petrol,Commercial,Bus,62.42,110.46,6894.91,Cash,533,Mismatch,June
+TXN000535,2025-06-13,Andhra Pradesh,Visakhapatnam,ST037,Diesel,Commercial,Auto,36.84,96.35,3549.53,Cash,534,Mismatch,June
+TXN000536,2025-02-10,Andhra Pradesh,Visakhapatnam,ST010,Diesel,Individual,Car,19.01,95.33,1812.22,Cash,535,Mismatch,February
+TXN000537,2025-02-16,Karnataka,Bengaluru,ST042,Petrol,Individual,Truck,65.83,106.78,7029.33,UPI,536,Mismatch,February
+TXN000538,2025-03-05,Karnataka,Bengaluru,ST046,Petrol,Individual,Auto,13.73,110.04,1510.85,Card,537,Mismatch,March
+TXN000539,2025-01-13,Tamil Nadu,Chennai,ST026,Petrol,Commercial,Bus,46.83,107.58,5037.97,Cash,538,Mismatch,January
+TXN000540,2025-05-06,Tamil Nadu,Chennai,ST013,Petrol,Commercial,Auto,45.88,106.67,4894.02,UPI,539,Mismatch,May
+TXN000541,2025-02-16,Tamil Nadu,Chennai,ST035,E20,Commercial,Car,29.28,105.14,3078.5,UPI,540,Mismatch,February
+TXN000542,2025-04-10,Tamil Nadu,Chennai,ST041,Petrol,Individual,Bike,47.17,106.84,5039.64,Card,541,Mismatch,April
+TXN000543,2025-06-10,Tamil Nadu,Chennai,ST023,Diesel,Individual,Bike,73.91,97.97,7240.96,Card,542,Mismatch,June
+TXN000544,2025-04-16,Andhra Pradesh,Visakhapatnam,ST027,Petrol,Individual,Bike,66.26,110.28,7307.15,UPI,543,Mismatch,April
+TXN000545,2025-01-31,Andhra Pradesh,Visakhapatnam,ST013,E20,Individual,Bike,71.04,105.55,7498.27,UPI,544,Mismatch,January
+TXN000546,2025-06-22,Andhra Pradesh,Visakhapatnam,ST021,Petrol,Commercial,Bike,6.8,109.27,743.04,Card,545,Mismatch,June
+TXN000547,2025-01-16,Tamil Nadu,Chennai,ST022,Diesel,Individual,Auto,36.5,97.2,3547.8,UPI,546,Mismatch,January
+TXN000548,2025-04-01,Maharashtra,Pune,ST022,E20,Individual,Auto,6.7,106.13,711.07,Cash,547,Mismatch,April
+TXN000549,2025-06-06,Karnataka,Bengaluru,ST027,Diesel,Commercial,Car,66.42,94.87,6301.27,UPI,548,Mismatch,June
+TXN000550,2025-04-14,Tamil Nadu,Chennai,ST005,E20,Commercial,Car,56.23,105.96,5958.13,UPI,549,Mismatch,April
+TXN000551,2025-06-08,Karnataka,Bengaluru,ST004,Diesel,Individual,Bus,59.63,95.49,5694.07,Cash,550,Mismatch,June
+TXN000552,2025-05-13,Andhra Pradesh,Visakhapatnam,ST005,Diesel,Commercial,Auto,12.68,95.58,1211.95,Cash,551,Mismatch,May
+TXN000553,2025-01-28,Andhra Pradesh,Visakhapatnam,ST034,Petrol,Individual,Truck,40.61,108.27,4396.84,Cash,552,Mismatch,January
+TXN000554,2025-06-18,Maharashtra,Pune,ST031,Petrol,Individual,Auto,23.04,107.19,2469.66,Cash,553,Mismatch,June
+TXN000555,2025-05-20,Andhra Pradesh,Visakhapatnam,ST034,E20,Commercial,Bus,67.89,107.03,7266.27,UPI,554,Mismatch,May
+TXN000556,2025-04-14,Tamil Nadu,Chennai,ST041,E20,Individual,Car,77.9,106.26,8277.65,Cash,555,Mismatch,April
+TXN000557,2025-01-28,Tamil Nadu,Chennai,ST027,Diesel,Commercial,Auto,16.44,97.63,1605.04,UPI,556,Mismatch,January
+TXN000558,2025-02-08,Maharashtra,Pune,ST005,Petrol,Commercial,Bike,17.28,108.22,1870.04,Card,557,Mismatch,February
+TXN000559,2025-05-09,Karnataka,Bengaluru,ST037,Diesel,Commercial,Bike,30.67,96.83,2969.78,Cash,558,Mismatch,May
+TXN000560,2025-04-18,Karnataka,Bengaluru,ST048,E20,Commercial,Bike,58.61,105.59,6188.63,Card,559,Mismatch,April
+TXN000561,2025-04-12,Karnataka,Bengaluru,ST009,E20,Individual,Bike,3.85,107.24,412.87,Card,560,Mismatch,April
+TXN000562,2025-03-25,Andhra Pradesh,Visakhapatnam,ST002,Diesel,Individual,Truck,24.66,95.51,2355.28,Card,561,Mismatch,March
+TXN000563,2025-02-04,Andhra Pradesh,Visakhapatnam,ST034,Petrol,Commercial,Bus,74.73,107.75,8052.16,UPI,562,Mismatch,February
+TXN000564,2025-01-10,Karnataka,Bengaluru,ST009,Petrol,Commercial,Car,9.62,107.75,1036.55,Card,563,Mismatch,January
+TXN000565,2025-04-24,Telangana,Hyderabad,ST018,Petrol,Commercial,Auto,72.16,108.4,7822.14,Card,564,Mismatch,April
+TXN000566,2025-04-30,Tamil Nadu,Chennai,ST003,E20,Individual,Auto,17.47,107.38,1875.93,UPI,565,Mismatch,April
+TXN000567,2025-04-02,Maharashtra,Pune,ST016,E20,Individual,Car,35.18,108.07,3801.9,Card,566,Mismatch,April
+TXN000568,2025-02-26,Telangana,Hyderabad,ST015,Petrol,Commercial,Bike,79.0,106.89,8444.31,UPI,567,Mismatch,February
+TXN000569,2025-05-10,Maharashtra,Pune,ST024,Petrol,Commercial,Bus,61.56,107.76,6633.71,Card,568,Mismatch,May
+TXN000570,2025-05-28,Telangana,Hyderabad,ST031,Petrol,Individual,Auto,56.39,107.73,6074.89,UPI,569,Mismatch,May
+TXN000571,2025-03-13,Telangana,Hyderabad,ST004,Diesel,Individual,Car,13.67,97.09,1327.22,Cash,570,Mismatch,March
+TXN000572,2025-06-11,Andhra Pradesh,Visakhapatnam,ST037,Diesel,Commercial,Bus,12.76,97.99,1250.35,Card,571,Mismatch,June
+TXN000573,2025-03-08,Karnataka,Bengaluru,ST030,E20,Commercial,Bus,31.63,106.94,3382.51,UPI,572,Mismatch,March
+TXN000574,2025-05-31,Tamil Nadu,Chennai,ST030,Petrol,Commercial,Car,18.54,107.15,1986.56,Card,573,Mismatch,May
+TXN000575,2025-04-15,Andhra Pradesh,Visakhapatnam,ST003,E20,Individual,Truck,74.05,105.87,7839.67,Card,574,Mismatch,April
+TXN000576,2025-06-05,Tamil Nadu,Chennai,ST011,E20,Commercial,Truck,14.2,105.98,1504.92,UPI,575,Mismatch,June
+TXN000577,2025-06-07,Tamil Nadu,Chennai,ST010,Diesel,Individual,Truck,5.32,95.92,510.29,Cash,576,Mismatch,June
+TXN000578,2025-04-16,Tamil Nadu,Chennai,ST048,Diesel,Commercial,Car,34.03,97.25,3309.42,UPI,577,Mismatch,April
+TXN000579,2025-04-25,Tamil Nadu,Chennai,ST028,Petrol,Individual,Bus,51.82,110.35,5718.34,Card,578,Mismatch,April
+TXN000580,2025-01-09,Telangana,Hyderabad,ST047,Petrol,Individual,Truck,15.5,107.53,1666.71,Card,579,Mismatch,January
+TXN000581,2025-04-08,Karnataka,Bengaluru,ST024,E20,Individual,Bike,56.73,105.6,5990.69,Cash,580,Mismatch,April
+TXN000582,2025-05-30,Tamil Nadu,Chennai,ST027,Petrol,Commercial,Auto,7.67,108.55,832.58,Cash,581,Mismatch,May
+TXN000583,2025-05-08,Karnataka,Bengaluru,ST029,Petrol,Commercial,Bus,7.76,110.33,856.16,Card,582,Mismatch,May
+TXN000584,2025-01-25,Tamil Nadu,Chennai,ST044,Petrol,Individual,Auto,10.83,108.36,1173.54,UPI,583,Mismatch,January
+TXN000585,2025-03-14,Andhra Pradesh,Visakhapatnam,ST035,E20,Commercial,Car,21.95,108.39,2379.16,Card,584,Mismatch,March
+TXN000586,2025-02-22,Andhra Pradesh,Visakhapatnam,ST006,Diesel,Commercial,Bus,7.19,94.98,682.91,Card,585,Mismatch,February
+TXN000587,2025-06-07,Andhra Pradesh,Visakhapatnam,ST009,E20,Commercial,Truck,67.23,107.6,7233.95,Card,586,Mismatch,June
+TXN000588,2025-03-11,Tamil Nadu,Chennai,ST001,Diesel,Commercial,Auto,20.16,98.02,1976.08,UPI,587,Mismatch,March
+TXN000589,2025-03-14,Tamil Nadu,Chennai,ST001,E20,Individual,Auto,62.45,104.87,6549.13,Card,588,Mismatch,March
+TXN000590,2025-01-13,Tamil Nadu,Chennai,ST033,E20,Individual,Bus,15.02,107.17,1609.69,Cash,589,Mismatch,January
+TXN000591,2025-03-14,Telangana,Hyderabad,ST018,Petrol,Individual,Car,16.69,109.63,1829.72,Cash,590,Mismatch,March
+TXN000592,2025-05-09,Tamil Nadu,Chennai,ST014,E20,Commercial,Bike,23.29,105.51,2457.33,Cash,591,Mismatch,May
+TXN000593,2025-02-18,Maharashtra,Pune,ST010,E20,Individual,Auto,73.63,108.62,7997.69,UPI,592,Mismatch,February
+TXN000594,2025-06-07,Andhra Pradesh,Visakhapatnam,ST050,Diesel,Commercial,Auto,55.52,97.05,5388.22,UPI,593,Mismatch,June
+TXN000595,2025-04-19,Telangana,Hyderabad,ST020,Petrol,Commercial,Bike,26.63,108.78,2896.81,UPI,594,Mismatch,April
+TXN000596,2025-06-28,Telangana,Hyderabad,ST019,Petrol,Individual,Car,62.5,108.94,6808.75,UPI,595,Mismatch,June
+TXN000597,2025-04-12,Telangana,Hyderabad,ST032,Petrol,Commercial,Truck,19.58,107.62,2107.2,Cash,596,Mismatch,April
+TXN000598,2025-06-12,Andhra Pradesh,Visakhapatnam,ST013,Diesel,Individual,Car,23.43,95.88,2246.47,Card,597,Mismatch,June
+TXN000599,2025-06-05,Andhra Pradesh,Visakhapatnam,ST028,Diesel,Individual,Car,27.56,96.03,2646.59,Card,598,Mismatch,June
+TXN000600,2025-03-10,Maharashtra,Pune,ST037,Diesel,Commercial,Truck,63.36,95.71,6064.19,Cash,599,Mismatch,March
+TXN000601,2025-03-16,Andhra Pradesh,Visakhapatnam,ST020,Petrol,Commercial,Truck,72.29,109.54,7918.65,UPI,600,Mismatch,March
+TXN000602,2025-04-27,Telangana,Hyderabad,ST016,Diesel,Commercial,Truck,62.4,96.8,6040.32,Card,601,Mismatch,April
+TXN000603,2025-04-04,Telangana,Hyderabad,ST030,Diesel,Commercial,Car,23.5,94.41,2218.63,Card,602,Mismatch,April
+TXN000604,2025-01-13,Karnataka,Bengaluru,ST039,Petrol,Commercial,Car,12.16,108.13,1314.86,Card,603,Mismatch,January
+TXN000605,2025-04-21,Andhra Pradesh,Visakhapatnam,ST007,E20,Individual,Truck,42.3,106.7,4513.41,Cash,604,Mismatch,April
+TXN000606,2025-01-10,Telangana,Hyderabad,ST007,E20,Individual,Car,40.67,105.22,4279.3,Card,605,Mismatch,January
+TXN000607,2025-02-06,Telangana,Hyderabad,ST024,Diesel,Individual,Bike,46.85,95.29,4464.34,Card,606,Mismatch,February
+TXN000608,2025-01-13,Andhra Pradesh,Visakhapatnam,ST017,E20,Individual,Truck,46.36,106.7,4946.61,Card,607,Mismatch,January
+TXN000609,2025-05-28,Telangana,Hyderabad,ST039,Diesel,Individual,Bike,53.43,95.71,5113.79,Cash,608,Mismatch,May
+TXN000610,2025-01-10,Karnataka,Bengaluru,ST036,Petrol,Individual,Truck,3.18,109.36,347.76,UPI,609,Mismatch,January
+TXN000611,2025-06-21,Karnataka,Bengaluru,ST034,E20,Individual,Bus,42.4,108.03,4580.47,Cash,610,Mismatch,June
+TXN000612,2025-03-22,Karnataka,Bengaluru,ST029,Diesel,Commercial,Bike,33.48,96.94,3245.55,UPI,611,Mismatch,March
+TXN000613,2025-05-07,Andhra Pradesh,Visakhapatnam,ST003,Petrol,Individual,Bike,75.15,108.69,8168.05,Card,612,Mismatch,May
+TXN000614,2025-06-23,Andhra Pradesh,Visakhapatnam,ST001,Petrol,Individual,Bike,49.97,109.96,5494.7,Card,613,Mismatch,June
+TXN000615,2025-02-08,Andhra Pradesh,Visakhapatnam,ST033,Diesel,Individual,Bus,26.52,97.06,2574.03,Card,614,Mismatch,February
+TXN000616,2025-02-22,Karnataka,Bengaluru,ST026,Petrol,Commercial,Bus,78.32,108.23,8476.57,Card,615,Mismatch,February
+TXN000617,2025-03-23,Karnataka,Bengaluru,ST035,E20,Commercial,Truck,11.76,106.38,1251.03,Cash,616,Mismatch,March
+TXN000618,2025-03-19,Telangana,Hyderabad,ST017,Petrol,Commercial,Auto,73.67,109.19,8044.03,Cash,617,Mismatch,March
+TXN000619,2025-02-20,Andhra Pradesh,Visakhapatnam,ST030,Diesel,Commercial,Car,44.86,97.82,4388.21,Card,618,Mismatch,February
+TXN000620,2025-05-17,Karnataka,Bengaluru,ST011,Petrol,Individual,Bike,31.0,109.12,3382.72,UPI,619,Mismatch,May
+TXN000621,2025-06-19,Telangana,Hyderabad,ST025,E20,Individual,Bus,62.34,106.24,6623.0,Card,620,Mismatch,June
+TXN000622,2025-05-08,Karnataka,Bengaluru,ST014,E20,Individual,Auto,61.59,104.84,6457.1,UPI,621,Mismatch,May
+TXN000623,2025-04-14,Karnataka,Bengaluru,ST007,E20,Individual,Car,68.13,105.55,7191.12,UPI,622,Mismatch,April
+TXN000624,2025-03-26,Tamil Nadu,Chennai,ST012,Petrol,Commercial,Auto,22.0,107.11,2356.42,Cash,623,Mismatch,March
+TXN000625,2025-06-16,Andhra Pradesh,Visakhapatnam,ST006,Diesel,Commercial,Bike,66.07,96.85,6398.88,Cash,624,Mismatch,June
+TXN000626,2025-03-24,Andhra Pradesh,Visakhapatnam,ST040,E20,Commercial,Truck,75.1,105.42,7917.04,Card,625,Mismatch,March
+TXN000627,2025-01-31,Andhra Pradesh,Visakhapatnam,ST030,E20,Commercial,Bus,36.47,108.0,3938.76,Card,626,Mismatch,January
+TXN000628,2025-03-30,Tamil Nadu,Chennai,ST016,Petrol,Individual,Car,68.18,108.59,7403.67,UPI,627,Mismatch,March
+TXN000629,2025-01-16,Telangana,Hyderabad,ST033,Diesel,Commercial,Truck,78.15,94.68,7399.24,UPI,628,Mismatch,January
+TXN000630,2025-03-22,Karnataka,Bengaluru,ST046,Diesel,Commercial,Car,12.59,95.87,1207.0,Cash,629,Mismatch,March
+TXN000631,2025-03-29,Karnataka,Bengaluru,ST032,E20,Individual,Truck,61.92,108.41,6712.75,Card,630,Mismatch,March
+TXN000632,2025-01-24,Maharashtra,Pune,ST033,Diesel,Commercial,Bike,17.42,96.27,1677.02,UPI,631,Mismatch,January
+TXN000633,2025-05-02,Andhra Pradesh,Visakhapatnam,ST028,E20,Individual,Bike,65.05,106.61,6934.98,Cash,632,Mismatch,May
+TXN000634,2025-04-11,Karnataka,Bengaluru,ST028,E20,Individual,Car,72.32,106.08,7671.71,UPI,633,Mismatch,April
+TXN000635,2025-02-04,Andhra Pradesh,Visakhapatnam,ST007,Petrol,Commercial,Car,74.77,110.09,8231.43,Card,634,Mismatch,February
+TXN000636,2025-03-28,Telangana,Hyderabad,ST042,E20,Individual,Auto,65.77,105.64,6947.94,UPI,635,Mismatch,March
+TXN000637,2025-02-27,Karnataka,Bengaluru,ST033,Petrol,Individual,Car,8.8,109.2,960.96,UPI,636,Mismatch,February
+TXN000638,2025-02-10,Maharashtra,Pune,ST042,Diesel,Individual,Truck,64.34,96.46,6206.24,Card,637,Mismatch,February
+TXN000639,2025-04-03,Telangana,Hyderabad,ST045,Petrol,Commercial,Car,64.1,108.87,6978.57,Card,638,Mismatch,April
+TXN000640,2025-04-19,Karnataka,Bengaluru,ST047,E20,Commercial,Truck,22.92,107.89,2472.84,Card,639,Mismatch,April
+TXN000641,2025-01-29,Karnataka,Bengaluru,ST032,E20,Commercial,Car,5.37,107.45,577.01,Card,640,Mismatch,January
+TXN000642,2025-01-30,Tamil Nadu,Chennai,ST042,E20,Commercial,Car,26.48,105.07,2782.25,Card,641,Mismatch,January
+TXN000643,2025-05-16,Maharashtra,Pune,ST025,Diesel,Commercial,Car,74.5,98.09,7307.7,UPI,642,Mismatch,May
+TXN000644,2025-04-03,Tamil Nadu,Chennai,ST039,E20,Commercial,Car,51.69,105.99,5478.62,UPI,643,Mismatch,April
+TXN000645,2025-05-20,Telangana,Hyderabad,ST028,Diesel,Commercial,Bus,44.2,96.56,4267.95,Card,644,Mismatch,May
+TXN000646,2025-06-03,Tamil Nadu,Chennai,ST049,Petrol,Commercial,Bus,74.1,107.59,7972.42,Card,645,Mismatch,June
+TXN000647,2025-02-28,Maharashtra,Pune,ST026,Diesel,Commercial,Bike,45.17,94.72,4278.5,UPI,646,Mismatch,February
+TXN000648,2025-06-03,Karnataka,Bengaluru,ST009,E20,Individual,Car,38.47,108.76,4184.0,Card,647,Mismatch,June
+TXN000649,2025-03-15,Telangana,Hyderabad,ST021,Petrol,Commercial,Truck,51.43,109.61,5637.24,UPI,648,Mismatch,March
+TXN000650,2025-06-05,Tamil Nadu,Chennai,ST021,Diesel,Commercial,Bus,18.32,94.57,1732.52,Card,649,Mismatch,June
+TXN000651,2025-03-27,Andhra Pradesh,Visakhapatnam,ST049,Petrol,Individual,Truck,72.67,108.84,7909.4,Card,650,Mismatch,March
+TXN000652,2025-05-03,Telangana,Hyderabad,ST012,E20,Commercial,Bike,13.31,105.69,1406.73,Cash,651,Mismatch,May
+TXN000653,2025-02-05,Telangana,Hyderabad,ST042,Diesel,Commercial,Car,21.14,95.28,2014.22,UPI,652,Mismatch,February
+TXN000654,2025-03-13,Karnataka,Bengaluru,ST048,Diesel,Commercial,Bus,11.86,95.9,1137.37,UPI,653,Mismatch,March
+TXN000655,2025-04-02,Tamil Nadu,Chennai,ST021,Petrol,Commercial,Auto,60.44,108.23,6541.42,UPI,654,Mismatch,April
+TXN000656,2025-02-25,Karnataka,Bengaluru,ST032,Petrol,Individual,Car,65.84,109.23,7191.7,UPI,655,Mismatch,February
+TXN000657,2025-05-10,Telangana,Hyderabad,ST004,E20,Individual,Bus,2.07,106.42,220.29,Cash,656,Mismatch,May
+TXN000658,2025-02-23,Telangana,Hyderabad,ST043,Petrol,Individual,Bike,69.85,107.73,7524.94,UPI,657,Mismatch,February
+TXN000659,2025-03-24,Maharashtra,Pune,ST046,Petrol,Commercial,Bike,9.66,107.38,1037.29,Card,658,Mismatch,March
+TXN000660,2025-05-24,Andhra Pradesh,Visakhapatnam,ST002,E20,Commercial,Bus,11.53,108.53,1251.35,Card,659,Mismatch,May
+TXN000661,2025-03-07,Telangana,Hyderabad,ST032,Diesel,Individual,Car,64.17,95.97,6158.39,Cash,660,Mismatch,March
+TXN000662,2025-05-16,Telangana,Hyderabad,ST030,Petrol,Individual,Auto,70.62,108.53,7664.39,UPI,661,Mismatch,May
+TXN000663,2025-02-09,Maharashtra,Pune,ST024,Petrol,Individual,Car,75.88,108.62,8242.09,UPI,662,Mismatch,February
+TXN000664,2025-05-17,Maharashtra,Pune,ST037,Petrol,Commercial,Car,5.07,107.05,542.74,UPI,663,Mismatch,May
+TXN000665,2025-02-26,Andhra Pradesh,Visakhapatnam,ST020,Diesel,Individual,Auto,50.94,94.74,4826.06,Cash,664,Mismatch,February
+TXN000666,2025-03-30,Telangana,Hyderabad,ST015,Petrol,Commercial,Auto,74.6,109.41,8161.99,UPI,665,Mismatch,March
+TXN000667,2025-03-04,Tamil Nadu,Chennai,ST035,E20,Individual,Bike,29.28,108.24,3169.27,UPI,666,Mismatch,March
+TXN000668,2025-06-25,Andhra Pradesh,Visakhapatnam,ST014,Petrol,Commercial,Car,70.62,109.95,7764.67,Cash,667,Mismatch,June
+TXN000669,2025-05-24,Maharashtra,Pune,ST042,Diesel,Individual,Bike,63.5,96.53,6129.65,Card,668,Mismatch,May
+TXN000670,2025-05-16,Karnataka,Bengaluru,ST012,Diesel,Commercial,Bike,55.81,97.47,5439.8,Card,669,Mismatch,May
+TXN000671,2025-01-21,Tamil Nadu,Chennai,ST035,Petrol,Individual,Car,5.56,107.3,596.59,Cash,670,Mismatch,January
+TXN000672,2025-04-18,Karnataka,Bengaluru,ST007,E20,Individual,Bus,10.58,105.37,1114.81,Card,671,Mismatch,April
+TXN000673,2025-06-27,Maharashtra,Pune,ST035,Diesel,Commercial,Bus,63.33,95.36,6039.15,Cash,672,Mismatch,June
+TXN000674,2025-03-16,Telangana,Hyderabad,ST006,Diesel,Individual,Bike,55.2,94.97,5242.34,Cash,673,Mismatch,March
+TXN000675,2025-02-27,Tamil Nadu,Chennai,ST033,Petrol,Commercial,Bike,8.58,107.3,920.63,Cash,674,Mismatch,February
+TXN000676,2025-04-04,Tamil Nadu,Chennai,ST040,Diesel,Individual,Auto,59.31,95.15,5643.35,Cash,675,Mismatch,April
+TXN000677,2025-04-26,Andhra Pradesh,Visakhapatnam,ST006,Petrol,Individual,Auto,35.0,108.2,3787.0,Card,676,Mismatch,April
+TXN000678,2025-03-15,Karnataka,Bengaluru,ST048,Petrol,Commercial,Auto,54.79,108.95,5969.37,Cash,677,Mismatch,March
+TXN000679,2025-03-04,Tamil Nadu,Chennai,ST023,Petrol,Commercial,Bike,78.81,107.28,8454.74,Cash,678,Mismatch,March
+TXN000680,2025-04-02,Telangana,Hyderabad,ST024,E20,Commercial,Bike,50.74,108.16,5488.04,Cash,679,Mismatch,April
+TXN000681,2025-02-25,Karnataka,Bengaluru,ST036,E20,Commercial,Truck,68.83,107.26,7382.71,Cash,680,Mismatch,February
+TXN000682,2025-05-19,Telangana,Hyderabad,ST032,Petrol,Commercial,Bike,36.88,109.69,4045.37,UPI,681,Mismatch,May
+TXN000683,2025-03-04,Andhra Pradesh,Visakhapatnam,ST017,Diesel,Commercial,Truck,77.4,96.4,7461.36,UPI,682,Mismatch,March
+TXN000684,2025-03-25,Telangana,Hyderabad,ST021,E20,Commercial,Truck,5.27,105.51,556.04,Card,683,Mismatch,March
+TXN000685,2025-02-05,Tamil Nadu,Chennai,ST001,Diesel,Commercial,Auto,45.94,96.57,4436.43,Cash,684,Mismatch,February
+TXN000686,2025-04-21,Telangana,Hyderabad,ST002,E20,Commercial,Bus,17.59,107.1,1883.89,Card,685,Mismatch,April
+TXN000687,2025-04-09,Andhra Pradesh,Visakhapatnam,ST032,Diesel,Commercial,Bus,16.68,98.01,1634.81,Cash,686,Mismatch,April
+TXN000688,2025-01-14,Karnataka,Bengaluru,ST024,E20,Commercial,Bike,79.26,107.63,8530.75,UPI,687,Mismatch,January
+TXN000689,2025-06-18,Telangana,Hyderabad,ST041,Petrol,Individual,Truck,55.42,108.75,6026.93,Card,688,Mismatch,June
+TXN000690,2025-02-06,Tamil Nadu,Chennai,ST039,Diesel,Commercial,Car,5.38,94.37,507.71,UPI,689,Mismatch,February
+TXN000691,2025-06-28,Andhra Pradesh,Visakhapatnam,ST028,E20,Individual,Bike,12.64,107.41,1357.66,Cash,690,Mismatch,June
+TXN000692,2025-02-20,Karnataka,Bengaluru,ST002,Petrol,Commercial,Truck,67.01,107.13,7178.78,Cash,691,Mismatch,February
+TXN000693,2025-03-18,Tamil Nadu,Chennai,ST050,Petrol,Commercial,Car,64.34,108.49,6980.25,UPI,692,Mismatch,March
+TXN000694,2025-06-14,Karnataka,Bengaluru,ST016,E20,Commercial,Auto,45.3,107.11,4852.08,Card,693,Mismatch,June
+TXN000695,2025-04-03,Maharashtra,Pune,ST003,E20,Individual,Auto,65.5,107.58,7046.49,UPI,694,Mismatch,April
+TXN000696,2025-05-27,Maharashtra,Pune,ST007,E20,Commercial,Bus,44.06,107.58,4739.97,UPI,695,Mismatch,May
+TXN000697,2025-06-18,Telangana,Hyderabad,ST043,Petrol,Commercial,Auto,74.34,106.94,7949.92,Cash,696,Mismatch,June
+TXN000698,2025-06-22,Maharashtra,Pune,ST039,Diesel,Commercial,Car,60.14,97.45,5860.64,Cash,697,Mismatch,June
+TXN000699,2025-04-04,Karnataka,Bengaluru,ST020,Petrol,Commercial,Car,17.31,107.35,1858.23,UPI,698,Mismatch,April
+TXN000700,2025-06-19,Telangana,Hyderabad,ST046,Diesel,Commercial,Bus,49.71,96.72,4807.95,Card,699,Mismatch,June
+TXN000701,2025-01-24,Maharashtra,Pune,ST006,E20,Commercial,Truck,14.46,108.26,1565.44,UPI,700,Mismatch,January
+TXN000702,2025-04-11,Karnataka,Bengaluru,ST004,Petrol,Commercial,Truck,25.52,106.87,2727.32,UPI,701,Mismatch,April
+TXN000703,2025-05-17,Telangana,Hyderabad,ST037,Petrol,Commercial,Auto,27.28,107.37,2929.05,UPI,702,Mismatch,May
+TXN000704,2025-01-14,Tamil Nadu,Chennai,ST031,E20,Commercial,Bus,8.22,106.33,874.03,UPI,703,Mismatch,January
+TXN000705,2025-03-29,Andhra Pradesh,Visakhapatnam,ST025,E20,Individual,Auto,67.87,107.35,7285.84,UPI,704,Mismatch,March
+TXN000706,2025-06-24,Tamil Nadu,Chennai,ST007,Petrol,Commercial,Auto,77.82,108.74,8462.15,UPI,705,Mismatch,June
+TXN000707,2025-06-28,Karnataka,Bengaluru,ST029,E20,Commercial,Bus,50.81,106.77,5424.98,Cash,706,Mismatch,June
+TXN000708,2025-05-17,Maharashtra,Pune,ST018,Petrol,Individual,Car,14.73,108.28,1594.96,Cash,707,Mismatch,May
+TXN000709,2025-01-12,Telangana,Hyderabad,ST013,E20,Individual,Car,7.15,107.64,769.63,Card,708,Mismatch,January
+TXN000710,2025-02-18,Tamil Nadu,Chennai,ST048,Petrol,Individual,Bike,51.89,109.8,5697.52,UPI,709,Mismatch,February
+TXN000711,2025-02-27,Telangana,Hyderabad,ST013,Petrol,Commercial,Bike,67.5,109.59,7397.32,Cash,710,Mismatch,February
+TXN000712,2025-06-28,Maharashtra,Pune,ST032,Diesel,Individual,Bus,57.99,96.06,5570.52,Cash,711,Mismatch,June
+TXN000713,2025-02-24,Telangana,Hyderabad,ST038,Petrol,Individual,Car,27.93,107.53,3003.31,Cash,712,Mismatch,February
+TXN000714,2025-01-21,Andhra Pradesh,Visakhapatnam,ST028,E20,Individual,Auto,20.49,106.97,2191.82,UPI,713,Mismatch,January
+TXN000715,2025-02-27,Telangana,Hyderabad,ST039,E20,Individual,Bike,42.01,106.82,4487.51,Card,714,Mismatch,February
+TXN000716,2025-01-11,Karnataka,Bengaluru,ST012,Petrol,Individual,Auto,60.25,107.64,6485.31,Card,715,Mismatch,January
+TXN000717,2025-03-20,Maharashtra,Pune,ST003,Diesel,Commercial,Bus,8.9,94.91,844.7,Cash,716,Mismatch,March
+TXN000718,2025-01-12,Telangana,Hyderabad,ST046,Diesel,Commercial,Auto,56.86,97.15,5523.95,UPI,717,Mismatch,January
+TXN000719,2025-04-08,Karnataka,Bengaluru,ST047,Petrol,Individual,Bike,70.53,109.78,7742.78,UPI,718,Mismatch,April
+TXN000720,2025-03-02,Andhra Pradesh,Visakhapatnam,ST024,E20,Individual,Auto,63.28,106.69,6751.34,Card,719,Mismatch,March
+TXN000721,2025-01-26,Tamil Nadu,Chennai,ST016,Diesel,Commercial,Auto,10.62,97.13,1031.52,Card,720,Mismatch,January
+TXN000722,2025-01-05,Tamil Nadu,Chennai,ST018,Petrol,Commercial,Car,9.27,106.67,988.83,UPI,721,Mismatch,January
+TXN000723,2025-03-09,Maharashtra,Pune,ST014,Petrol,Individual,Car,8.62,106.69,919.67,UPI,722,Mismatch,March
+TXN000724,2025-06-13,Telangana,Hyderabad,ST040,Diesel,Commercial,Bus,20.37,96.41,1963.87,Cash,723,Mismatch,June
+TXN000725,2025-01-26,Maharashtra,Pune,ST037,Diesel,Commercial,Truck,35.3,95.48,3370.44,UPI,724,Mismatch,January
+TXN000726,2025-06-08,Maharashtra,Pune,ST028,Petrol,Commercial,Car,67.92,107.86,7325.85,UPI,725,Mismatch,June
+TXN000727,2025-01-24,Tamil Nadu,Chennai,ST002,Diesel,Individual,Bus,22.39,95.2,2131.53,Card,726,Mismatch,January
+TXN000728,2025-02-13,Tamil Nadu,Chennai,ST014,Diesel,Individual,Bike,47.56,95.16,4525.81,Cash,727,Mismatch,February
+TXN000729,2025-03-06,Maharashtra,Pune,ST047,Petrol,Commercial,Bus,30.16,107.93,3255.17,Cash,728,Mismatch,March
+TXN000730,2025-04-27,Karnataka,Bengaluru,ST047,Petrol,Commercial,Car,3.39,107.09,363.04,Cash,729,Mismatch,April
+TXN000731,2025-03-23,Karnataka,Bengaluru,ST022,E20,Commercial,Bike,52.04,107.68,5603.67,Cash,730,Mismatch,March
+TXN000732,2025-05-28,Tamil Nadu,Chennai,ST021,Petrol,Individual,Bike,76.21,108.38,8259.64,Card,731,Mismatch,May
+TXN000733,2025-06-13,Tamil Nadu,Chennai,ST021,E20,Commercial,Auto,37.71,107.84,4066.65,Cash,732,Mismatch,June
+TXN000734,2025-06-14,Karnataka,Bengaluru,ST023,E20,Commercial,Bike,60.28,107.28,6466.84,Card,733,Mismatch,June
+TXN000735,2025-05-04,Maharashtra,Pune,ST019,E20,Individual,Bus,64.62,106.17,6860.71,Cash,734,Mismatch,May
+TXN000736,2025-02-16,Karnataka,Bengaluru,ST009,Diesel,Commercial,Auto,16.77,98.08,1644.8,Card,735,Mismatch,February
+TXN000737,2025-03-31,Telangana,Hyderabad,ST049,E20,Commercial,Bus,35.18,107.56,3783.96,Card,736,Mismatch,March
+TXN000738,2025-01-22,Telangana,Hyderabad,ST002,E20,Commercial,Bus,78.99,104.85,8282.1,Cash,737,Mismatch,January
+TXN000739,2025-06-13,Karnataka,Bengaluru,ST012,Petrol,Commercial,Bus,7.32,107.9,789.83,Cash,738,Mismatch,June
+TXN000740,2025-04-24,Tamil Nadu,Chennai,ST026,Diesel,Commercial,Bus,28.3,95.16,2693.03,Card,739,Mismatch,April
+TXN000741,2025-02-10,Telangana,Hyderabad,ST008,Diesel,Commercial,Bike,23.68,96.37,2282.04,UPI,740,Mismatch,February
+TXN000742,2025-03-18,Andhra Pradesh,Visakhapatnam,ST004,Petrol,Individual,Truck,49.3,109.91,5418.56,Card,741,Mismatch,March
+TXN000743,2025-01-02,Karnataka,Bengaluru,ST002,Diesel,Commercial,Car,52.36,96.1,5031.8,UPI,742,Mismatch,January
+TXN000744,2025-04-28,Telangana,Hyderabad,ST036,Petrol,Commercial,Car,4.16,109.77,456.64,Cash,743,Mismatch,April
+TXN000745,2025-04-02,Telangana,Hyderabad,ST026,E20,Commercial,Bike,40.73,108.03,4400.06,UPI,744,Mismatch,April
+TXN000746,2025-04-13,Andhra Pradesh,Visakhapatnam,ST036,Petrol,Commercial,Bus,65.11,110.24,7177.73,UPI,745,Mismatch,April
+TXN000747,2025-03-08,Maharashtra,Pune,ST027,Petrol,Individual,Bus,54.4,108.62,5908.93,Cash,746,Mismatch,March
+TXN000748,2025-02-13,Tamil Nadu,Chennai,ST026,Diesel,Commercial,Bus,74.12,96.56,7157.03,Card,747,Mismatch,February
+TXN000749,2025-06-21,Maharashtra,Pune,ST038,E20,Commercial,Bus,72.59,107.71,7818.67,Card,748,Mismatch,June
+TXN000750,2025-02-20,Andhra Pradesh,Visakhapatnam,ST050,Petrol,Commercial,Truck,78.72,107.2,8438.78,Card,749,Mismatch,February
+TXN000751,2025-01-30,Karnataka,Bengaluru,ST018,E20,Individual,Truck,21.29,108.12,2301.87,UPI,750,Mismatch,January
+TXN000752,2025-02-23,Andhra Pradesh,Visakhapatnam,ST050,Petrol,Commercial,Car,59.93,106.61,6389.14,UPI,751,Mismatch,February
+TXN000753,2025-05-02,Tamil Nadu,Chennai,ST043,E20,Individual,Bike,3.34,108.13,361.15,UPI,752,Mismatch,May
+TXN000754,2025-04-26,Karnataka,Bengaluru,ST012,E20,Individual,Bike,64.13,105.57,6770.2,Cash,753,Mismatch,April
+TXN000755,2025-01-08,Tamil Nadu,Chennai,ST048,E20,Commercial,Car,65.21,107.33,6998.99,Card,754,Mismatch,January
+TXN000756,2025-03-20,Maharashtra,Pune,ST047,Petrol,Commercial,Truck,63.19,109.81,6938.89,UPI,755,Mismatch,March
+TXN000757,2025-05-10,Karnataka,Bengaluru,ST019,Petrol,Individual,Bike,12.6,109.99,1385.87,Cash,756,Mismatch,May
+TXN000758,2025-03-04,Tamil Nadu,Chennai,ST003,Diesel,Individual,Bus,34.65,97.08,3363.82,UPI,757,Mismatch,March
+TXN000759,2025-04-11,Maharashtra,Pune,ST013,Diesel,Commercial,Car,75.98,95.77,7276.6,Card,758,Mismatch,April
+TXN000760,2025-05-09,Tamil Nadu,Chennai,ST050,Petrol,Commercial,Bus,57.65,109.44,6309.22,Card,759,Mismatch,May
+TXN000761,2025-06-19,Maharashtra,Pune,ST033,E20,Individual,Bike,75.8,106.31,8058.3,Card,760,Mismatch,June
+TXN000762,2025-02-20,Karnataka,Bengaluru,ST001,Petrol,Individual,Truck,6.65,108.12,719.0,UPI,761,Mismatch,February
+TXN000763,2025-03-21,Tamil Nadu,Chennai,ST008,Petrol,Commercial,Bus,11.37,108.3,1231.37,Cash,762,Mismatch,March
+TXN000764,2025-03-02,Telangana,Hyderabad,ST015,E20,Individual,Auto,15.63,106.16,1659.28,Card,763,Mismatch,March
+TXN000765,2025-05-12,Tamil Nadu,Chennai,ST009,Petrol,Commercial,Car,46.54,109.87,5113.35,UPI,764,Mismatch,May
+TXN000766,2025-05-31,Andhra Pradesh,Visakhapatnam,ST035,Petrol,Commercial,Car,14.63,108.09,1581.36,Card,765,Mismatch,May
+TXN000767,2025-02-05,Tamil Nadu,Chennai,ST034,E20,Commercial,Auto,42.87,105.07,4504.35,Card,766,Mismatch,February
+TXN000768,2025-06-26,Tamil Nadu,Chennai,ST028,Diesel,Individual,Car,74.82,98.14,7342.83,UPI,767,Mismatch,June
+TXN000769,2025-01-24,Tamil Nadu,Chennai,ST030,Petrol,Individual,Bike,53.42,108.34,5787.52,Cash,768,Mismatch,January
+TXN000770,2025-06-16,Maharashtra,Pune,ST038,E20,Commercial,Auto,52.41,108.44,5683.34,Cash,769,Mismatch,June
+TXN000771,2025-02-11,Telangana,Hyderabad,ST017,Diesel,Individual,Truck,56.1,97.5,5469.75,Cash,770,Mismatch,February
+TXN000772,2025-01-08,Telangana,Hyderabad,ST041,Petrol,Individual,Car,41.1,109.01,4480.31,Cash,771,Mismatch,January
+TXN000773,2025-05-23,Telangana,Hyderabad,ST028,E20,Individual,Auto,70.38,108.01,7601.74,Cash,772,Mismatch,May
+TXN000774,2025-06-24,Telangana,Hyderabad,ST028,Petrol,Individual,Bus,27.0,106.58,2877.66,Card,773,Mismatch,June
+TXN000775,2025-02-25,Tamil Nadu,Chennai,ST032,E20,Commercial,Bus,13.34,106.04,1414.57,Cash,774,Mismatch,February
+TXN000776,2025-03-23,Telangana,Hyderabad,ST027,Petrol,Individual,Bike,69.56,106.55,7411.62,Card,775,Mismatch,March
+TXN000777,2025-01-07,Tamil Nadu,Chennai,ST010,Diesel,Commercial,Auto,33.37,95.39,3183.16,Cash,776,Mismatch,January
+TXN000778,2025-01-21,Maharashtra,Pune,ST023,Petrol,Commercial,Bike,48.01,110.5,5305.1,UPI,777,Mismatch,January
+TXN000779,2025-03-30,Andhra Pradesh,Visakhapatnam,ST045,E20,Commercial,Car,47.51,106.52,5060.77,Card,778,Mismatch,March
+TXN000780,2025-06-18,Tamil Nadu,Chennai,ST035,Petrol,Commercial,Truck,34.18,110.21,3766.98,UPI,779,Mismatch,June
+TXN000781,2025-02-19,Telangana,Hyderabad,ST042,Petrol,Individual,Truck,16.58,109.86,1821.48,UPI,780,Mismatch,February
+TXN000782,2025-02-18,Telangana,Hyderabad,ST049,Petrol,Commercial,Bike,56.82,110.22,6262.7,Cash,781,Mismatch,February
+TXN000783,2025-05-16,Andhra Pradesh,Visakhapatnam,ST034,Petrol,Commercial,Bike,72.32,106.65,7712.93,Cash,782,Mismatch,May
+TXN000784,2025-03-07,Tamil Nadu,Chennai,ST040,Diesel,Commercial,Auto,78.53,94.61,7429.72,Card,783,Mismatch,March
+TXN000785,2025-03-03,Andhra Pradesh,Visakhapatnam,ST038,Diesel,Individual,Truck,13.07,96.68,1263.61,UPI,784,Mismatch,March
+TXN000786,2025-04-25,Karnataka,Bengaluru,ST017,E20,Commercial,Bus,45.11,108.05,4874.14,Card,785,Mismatch,April
+TXN000787,2025-06-15,Telangana,Hyderabad,ST016,Petrol,Commercial,Bike,24.36,108.17,2635.02,Card,786,Mismatch,June
+TXN000788,2025-06-28,Tamil Nadu,Chennai,ST027,Petrol,Commercial,Car,11.79,108.24,1276.15,Cash,787,Mismatch,June
+TXN000789,2025-04-10,Andhra Pradesh,Visakhapatnam,ST015,E20,Commercial,Truck,58.09,105.74,6142.44,Cash,788,Mismatch,April
+TXN000790,2025-03-24,Maharashtra,Pune,ST043,E20,Individual,Bus,49.84,106.85,5325.4,Cash,789,Mismatch,March
+TXN000791,2025-03-01,Karnataka,Bengaluru,ST003,Petrol,Commercial,Bus,52.13,110.39,5754.63,Card,790,Mismatch,March
+TXN000792,2025-06-24,Tamil Nadu,Chennai,ST038,E20,Commercial,Truck,48.29,107.74,5202.76,Cash,791,Mismatch,June
+TXN000793,2025-01-16,Karnataka,Bengaluru,ST029,E20,Commercial,Car,70.51,107.07,7549.51,Card,792,Mismatch,January
+TXN000794,2025-06-11,Telangana,Hyderabad,ST011,Petrol,Commercial,Car,57.16,107.17,6125.84,Card,793,Mismatch,June
+TXN000795,2025-06-09,Maharashtra,Pune,ST019,Diesel,Commercial,Auto,73.73,95.35,7030.16,Cash,794,Mismatch,June
+TXN000796,2025-01-28,Telangana,Hyderabad,ST042,E20,Individual,Bus,45.2,105.57,4771.76,UPI,795,Mismatch,January
+TXN000797,2025-04-01,Karnataka,Bengaluru,ST047,Petrol,Commercial,Truck,55.59,107.53,5977.59,Cash,796,Mismatch,April
+TXN000798,2025-02-18,Karnataka,Bengaluru,ST020,Diesel,Individual,Bike,59.89,97.94,5865.63,Cash,797,Mismatch,February
+TXN000799,2025-05-10,Telangana,Hyderabad,ST012,E20,Individual,Bike,7.75,106.85,828.09,Cash,798,Mismatch,May
+TXN000800,2025-04-10,Karnataka,Bengaluru,ST049,Diesel,Commercial,Car,50.72,97.26,4933.03,Cash,799,Mismatch,April
+TXN000801,2025-01-30,Telangana,Hyderabad,ST007,Petrol,Commercial,Car,41.18,107.2,4414.5,Cash,800,Mismatch,January
+TXN000802,2025-06-09,Tamil Nadu,Chennai,ST029,Diesel,Commercial,Bike,13.27,96.8,1284.54,UPI,801,Mismatch,June
+TXN000803,2025-02-09,Karnataka,Bengaluru,ST003,Petrol,Individual,Bike,78.57,107.77,8467.49,Cash,802,Mismatch,February
+TXN000804,2025-02-14,Telangana,Hyderabad,ST026,E20,Individual,Bus,26.12,106.53,2782.56,Card,803,Mismatch,February
+TXN000805,2025-05-06,Andhra Pradesh,Visakhapatnam,ST036,E20,Commercial,Bus,46.23,108.11,4997.93,UPI,804,Mismatch,May
+TXN000806,2025-01-04,Tamil Nadu,Chennai,ST037,Petrol,Commercial,Car,29.18,109.48,3194.63,UPI,805,Mismatch,January
+TXN000807,2025-04-26,Tamil Nadu,Chennai,ST025,Diesel,Individual,Car,30.68,94.57,2901.41,UPI,806,Mismatch,April
+TXN000808,2025-02-05,Karnataka,Bengaluru,ST027,E20,Individual,Auto,42.61,105.72,4504.73,UPI,807,Mismatch,February
+TXN000809,2025-02-26,Tamil Nadu,Chennai,ST001,E20,Commercial,Truck,41.58,106.21,4416.21,Cash,808,Mismatch,February
+TXN000810,2025-06-10,Tamil Nadu,Chennai,ST026,Diesel,Individual,Truck,6.33,95.27,603.06,UPI,809,Mismatch,June
+TXN000811,2025-02-20,Andhra Pradesh,Visakhapatnam,ST002,Petrol,Commercial,Bike,25.22,107.1,2701.06,Cash,810,Mismatch,February
+TXN000812,2025-06-23,Telangana,Hyderabad,ST022,Petrol,Commercial,Bus,33.56,106.59,3577.16,Cash,811,Mismatch,June
+TXN000813,2025-03-18,Karnataka,Bengaluru,ST042,E20,Individual,Bus,58.54,105.5,6175.97,Cash,812,Mismatch,March
+TXN000814,2025-06-20,Telangana,Hyderabad,ST046,E20,Individual,Bike,37.87,108.15,4095.64,Card,813,Mismatch,June
+TXN000815,2025-01-22,Andhra Pradesh,Visakhapatnam,ST039,Petrol,Commercial,Car,49.48,110.3,5457.64,Cash,814,Mismatch,January
+TXN000816,2025-05-22,Maharashtra,Pune,ST017,Diesel,Individual,Truck,75.32,95.58,7199.09,Card,815,Mismatch,May
+TXN000817,2025-01-13,Telangana,Hyderabad,ST036,Petrol,Individual,Truck,42.72,109.12,4661.61,UPI,816,Mismatch,January
+TXN000818,2025-02-11,Karnataka,Bengaluru,ST027,Petrol,Individual,Auto,46.9,109.15,5119.14,UPI,817,Mismatch,February
+TXN000819,2025-03-19,Karnataka,Bengaluru,ST015,Diesel,Individual,Car,58.79,94.89,5578.58,UPI,818,Mismatch,March
+TXN000820,2025-01-18,Telangana,Hyderabad,ST029,Diesel,Commercial,Truck,45.18,94.3,4260.47,UPI,819,Mismatch,January
+TXN000821,2025-02-05,Maharashtra,Pune,ST001,Petrol,Individual,Bus,44.4,107.58,4776.55,Cash,820,Mismatch,February
+TXN000822,2025-03-21,Telangana,Hyderabad,ST004,Diesel,Commercial,Auto,6.18,98.0,605.64,UPI,821,Mismatch,March
+TXN000823,2025-06-20,Karnataka,Bengaluru,ST006,Diesel,Individual,Bus,79.79,98.11,7828.2,Card,822,Mismatch,June
+TXN000824,2025-04-21,Andhra Pradesh,Visakhapatnam,ST029,E20,Individual,Bike,30.94,107.74,3333.48,Card,823,Mismatch,April
+TXN000825,2025-05-27,Telangana,Hyderabad,ST050,E20,Individual,Bus,4.97,106.77,530.65,UPI,824,Mismatch,May
+TXN000826,2025-04-04,Maharashtra,Pune,ST027,Petrol,Commercial,Bike,23.87,109.98,2625.22,UPI,825,Mismatch,April
+TXN000827,2025-04-22,Telangana,Hyderabad,ST005,E20,Commercial,Bus,60.85,105.92,6445.23,UPI,826,Mismatch,April
+TXN000828,2025-03-10,Telangana,Hyderabad,ST013,E20,Commercial,Auto,47.46,105.91,5026.49,Card,827,Mismatch,March
+TXN000829,2025-03-09,Andhra Pradesh,Visakhapatnam,ST034,Petrol,Commercial,Truck,56.3,106.99,6023.54,Cash,828,Mismatch,March
+TXN000830,2025-04-24,Telangana,Hyderabad,ST011,Diesel,Individual,Truck,72.34,94.32,6823.11,UPI,829,Mismatch,April
+TXN000831,2025-04-26,Andhra Pradesh,Visakhapatnam,ST038,E20,Individual,Bike,27.72,106.35,2948.02,UPI,830,Mismatch,April
+TXN000832,2025-01-30,Telangana,Hyderabad,ST035,Petrol,Commercial,Auto,61.44,108.66,6676.07,UPI,831,Mismatch,January
+TXN000833,2025-06-27,Karnataka,Bengaluru,ST040,E20,Commercial,Auto,76.1,106.97,8140.42,UPI,832,Mismatch,June
+TXN000834,2025-06-12,Tamil Nadu,Chennai,ST031,Diesel,Individual,Truck,11.69,96.73,1130.77,UPI,833,Mismatch,June
+TXN000835,2025-06-16,Tamil Nadu,Chennai,ST010,Diesel,Commercial,Truck,54.71,94.25,5156.42,Cash,834,Mismatch,June
+TXN000836,2025-03-14,Andhra Pradesh,Visakhapatnam,ST046,Petrol,Commercial,Bus,54.99,108.3,5955.42,Card,835,Mismatch,March
+TXN000837,2025-01-21,Maharashtra,Pune,ST045,E20,Individual,Bus,34.92,106.81,3729.81,UPI,836,Mismatch,January
+TXN000838,2025-06-29,Telangana,Hyderabad,ST004,Petrol,Individual,Bus,72.05,107.6,7752.58,Cash,837,Mismatch,June
+TXN000839,2025-01-10,Maharashtra,Pune,ST044,E20,Commercial,Auto,10.39,105.97,1101.03,Card,838,Mismatch,January
+TXN000840,2025-06-16,Karnataka,Bengaluru,ST031,Diesel,Individual,Bus,19.95,97.69,1948.92,UPI,839,Mismatch,June
+TXN000841,2025-03-08,Tamil Nadu,Chennai,ST035,Diesel,Individual,Car,24.65,94.5,2329.42,Card,840,Mismatch,March
+TXN000842,2025-06-29,Telangana,Hyderabad,ST007,E20,Individual,Car,25.48,108.21,2757.19,UPI,841,Mismatch,June
+TXN000843,2025-05-08,Maharashtra,Pune,ST043,Diesel,Commercial,Bike,42.26,94.26,3983.43,UPI,842,Mismatch,May
+TXN000844,2025-01-01,Tamil Nadu,Chennai,ST037,E20,Individual,Auto,26.99,106.41,2872.01,UPI,843,Mismatch,January
+TXN000845,2025-05-28,Karnataka,Bengaluru,ST031,Diesel,Individual,Auto,16.25,97.09,1577.71,Cash,844,Mismatch,May
+TXN000846,2025-02-12,Tamil Nadu,Chennai,ST019,Petrol,Commercial,Truck,51.03,108.7,5546.96,UPI,845,Mismatch,February
+TXN000847,2025-02-22,Andhra Pradesh,Visakhapatnam,ST017,Petrol,Commercial,Auto,54.57,106.6,5817.16,Card,846,Mismatch,February
+TXN000848,2025-05-15,Andhra Pradesh,Visakhapatnam,ST038,Diesel,Individual,Car,78.43,96.03,7531.63,UPI,847,Mismatch,May
+TXN000849,2025-03-11,Karnataka,Bengaluru,ST007,Diesel,Individual,Car,11.02,97.48,1074.23,Card,848,Mismatch,March
+TXN000850,2025-03-21,Tamil Nadu,Chennai,ST002,E20,Commercial,Bus,56.69,108.72,6163.34,UPI,849,Mismatch,March
+TXN000851,2025-05-03,Maharashtra,Pune,ST006,Diesel,Individual,Bike,36.3,95.86,3479.72,Cash,850,Mismatch,May
+TXN000852,2025-01-10,Tamil Nadu,Chennai,ST039,Diesel,Individual,Car,57.88,96.65,5594.1,Card,851,Mismatch,January
+TXN000853,2025-05-09,Tamil Nadu,Chennai,ST034,Diesel,Individual,Bus,29.69,96.8,2873.99,Cash,852,Mismatch,May
+TXN000854,2025-05-03,Karnataka,Bengaluru,ST012,Petrol,Commercial,Truck,48.77,109.59,5344.7,Card,853,Mismatch,May
+TXN000855,2025-05-26,Karnataka,Bengaluru,ST010,Diesel,Commercial,Bus,20.09,95.5,1918.6,Cash,854,Mismatch,May
+TXN000856,2025-05-26,Tamil Nadu,Chennai,ST030,E20,Individual,Auto,60.33,105.9,6388.95,Cash,855,Mismatch,May
+TXN000857,2025-02-07,Telangana,Hyderabad,ST031,Petrol,Individual,Bike,70.51,107.17,7556.56,UPI,856,Mismatch,February
+TXN000858,2025-04-18,Maharashtra,Pune,ST015,Petrol,Individual,Car,20.45,109.59,2241.12,UPI,857,Mismatch,April
+TXN000859,2025-04-20,Karnataka,Bengaluru,ST007,Petrol,Individual,Car,31.44,108.48,3410.61,Cash,858,Mismatch,April
+TXN000860,2025-02-11,Maharashtra,Pune,ST031,E20,Commercial,Bus,24.3,108.23,2629.99,Card,859,Mismatch,February
+TXN000861,2025-03-17,Maharashtra,Pune,ST038,Petrol,Commercial,Bus,8.52,110.06,937.71,Cash,860,Mismatch,March
+TXN000862,2025-05-18,Maharashtra,Pune,ST013,Diesel,Individual,Bus,12.67,96.39,1221.26,UPI,861,Mismatch,May
+TXN000863,2025-03-18,Telangana,Hyderabad,ST001,Diesel,Individual,Truck,74.88,96.54,7228.92,UPI,862,Mismatch,March
+TXN000864,2025-04-08,Karnataka,Bengaluru,ST020,E20,Commercial,Truck,4.73,106.74,504.88,Cash,863,Mismatch,April
+TXN000865,2025-02-09,Telangana,Hyderabad,ST024,Petrol,Commercial,Auto,36.23,106.96,3875.16,Cash,864,Mismatch,February
+TXN000866,2025-02-21,Tamil Nadu,Chennai,ST046,Diesel,Commercial,Truck,58.3,95.8,5585.14,UPI,865,Mismatch,February
+TXN000867,2025-06-19,Telangana,Hyderabad,ST027,Petrol,Commercial,Truck,52.01,108.85,5661.29,Cash,866,Mismatch,June
+TXN000868,2025-03-26,Telangana,Hyderabad,ST009,Diesel,Commercial,Bike,24.85,97.11,2413.18,Cash,867,Mismatch,March
+TXN000869,2025-04-19,Maharashtra,Pune,ST021,Diesel,Individual,Auto,6.32,97.23,614.49,UPI,868,Mismatch,April
+TXN000870,2025-04-04,Maharashtra,Pune,ST028,E20,Individual,Car,4.75,107.76,511.86,Card,869,Mismatch,April
+TXN000871,2025-02-21,Maharashtra,Pune,ST022,Diesel,Commercial,Bike,8.92,95.48,851.68,UPI,870,Mismatch,February
+TXN000872,2025-04-26,Tamil Nadu,Chennai,ST048,Diesel,Individual,Bus,70.86,97.43,6903.89,UPI,871,Mismatch,April
+TXN000873,2025-05-26,Maharashtra,Pune,ST017,E20,Commercial,Car,50.31,107.47,5406.82,Card,872,Mismatch,May
+TXN000874,2025-05-21,Karnataka,Bengaluru,ST035,Diesel,Individual,Bike,18.02,94.61,1704.87,Card,873,Mismatch,May
+TXN000875,2025-04-10,Tamil Nadu,Chennai,ST016,Petrol,Individual,Bike,56.45,108.47,6123.13,Cash,874,Mismatch,April
+TXN000876,2025-01-14,Andhra Pradesh,Visakhapatnam,ST046,Diesel,Commercial,Car,9.03,95.96,866.52,Card,875,Mismatch,January
+TXN000877,2025-06-21,Andhra Pradesh,Visakhapatnam,ST016,Diesel,Commercial,Auto,5.97,97.58,582.55,Card,876,Mismatch,June
+TXN000878,2025-03-02,Maharashtra,Pune,ST006,Petrol,Individual,Bike,77.44,108.58,8408.44,UPI,877,Mismatch,March
+TXN000879,2025-01-16,Telangana,Hyderabad,ST039,Diesel,Individual,Car,26.64,95.09,2533.2,Cash,878,Mismatch,January
+TXN000880,2025-04-27,Karnataka,Bengaluru,ST015,E20,Commercial,Auto,77.34,108.32,8377.47,Cash,879,Mismatch,April
+TXN000881,2025-03-30,Andhra Pradesh,Visakhapatnam,ST028,Petrol,Commercial,Auto,7.74,110.11,852.25,Card,880,Mismatch,March
+TXN000882,2025-03-03,Andhra Pradesh,Visakhapatnam,ST003,E20,Commercial,Car,11.03,105.73,1166.2,Cash,881,Mismatch,March
+TXN000883,2025-01-01,Telangana,Hyderabad,ST032,Petrol,Individual,Bike,24.92,108.57,2705.56,Card,882,Mismatch,January
+TXN000884,2025-01-19,Maharashtra,Pune,ST013,Diesel,Individual,Bus,76.38,97.23,7426.43,UPI,883,Mismatch,January
+TXN000885,2025-02-11,Maharashtra,Pune,ST041,Diesel,Commercial,Bike,47.17,95.11,4486.34,UPI,884,Mismatch,February
+TXN000886,2025-01-24,Maharashtra,Pune,ST020,Petrol,Commercial,Bike,35.47,109.81,3894.96,UPI,885,Mismatch,January
+TXN000887,2025-01-01,Tamil Nadu,Chennai,ST047,Petrol,Individual,Car,21.05,107.47,2262.24,UPI,886,Mismatch,January
+TXN000888,2025-04-15,Maharashtra,Pune,ST025,Diesel,Commercial,Auto,59.48,97.51,5799.89,UPI,887,Mismatch,April
+TXN000889,2025-03-31,Maharashtra,Pune,ST016,Diesel,Commercial,Bike,40.43,96.94,3919.28,UPI,888,Mismatch,March
+TXN000890,2025-06-04,Maharashtra,Pune,ST033,Petrol,Individual,Auto,46.62,107.7,5020.97,Cash,889,Mismatch,June
+TXN000891,2025-02-17,Tamil Nadu,Chennai,ST024,Diesel,Individual,Bus,3.02,97.6,294.75,UPI,890,Mismatch,February
+TXN000892,2025-01-17,Andhra Pradesh,Visakhapatnam,ST010,Petrol,Commercial,Truck,4.44,108.51,481.78,Card,891,Mismatch,January
+TXN000893,2025-03-18,Karnataka,Bengaluru,ST012,E20,Commercial,Bike,49.99,105.18,5257.95,UPI,892,Mismatch,March
+TXN000894,2025-01-02,Maharashtra,Pune,ST017,E20,Commercial,Truck,12.74,107.64,1371.33,Card,893,Mismatch,January
+TXN000895,2025-04-30,Karnataka,Bengaluru,ST003,E20,Commercial,Bike,39.56,105.55,4175.56,UPI,894,Mismatch,April
+TXN000896,2025-04-06,Andhra Pradesh,Visakhapatnam,ST010,Petrol,Individual,Auto,41.32,107.42,4438.59,Cash,895,Mismatch,April
+TXN000897,2025-03-02,Telangana,Hyderabad,ST013,Diesel,Commercial,Auto,37.42,97.09,3633.11,Card,896,Mismatch,March
+TXN000898,2025-04-22,Karnataka,Bengaluru,ST001,Petrol,Commercial,Bus,72.73,106.67,7758.11,UPI,897,Mismatch,April
+TXN000899,2025-01-28,Karnataka,Bengaluru,ST017,Petrol,Individual,Car,21.34,108.78,2321.37,Card,898,Mismatch,January
+TXN000900,2025-06-24,Maharashtra,Pune,ST033,Petrol,Commercial,Car,71.21,106.9,7612.35,Card,899,Mismatch,June
+TXN000901,2025-02-20,Maharashtra,Pune,ST044,Diesel,Individual,Car,25.85,97.6,2522.96,UPI,900,Mismatch,February
+TXN000902,2025-01-17,Maharashtra,Pune,ST014,E20,Commercial,Bus,3.05,105.08,320.49,Cash,901,Mismatch,January
+TXN000903,2025-01-21,Maharashtra,Pune,ST002,Petrol,Individual,Bus,4.63,107.56,498.0,Cash,902,Mismatch,January
+TXN000904,2025-05-04,Karnataka,Bengaluru,ST011,Petrol,Individual,Auto,61.47,108.59,6675.03,Card,903,Mismatch,May
+TXN000905,2025-01-27,Andhra Pradesh,Visakhapatnam,ST004,Diesel,Individual,Car,57.71,96.14,5548.24,Cash,904,Mismatch,January
+TXN000906,2025-01-21,Karnataka,Bengaluru,ST049,Petrol,Commercial,Truck,36.39,107.5,3911.93,Cash,905,Mismatch,January
+TXN000907,2025-05-21,Andhra Pradesh,Visakhapatnam,ST015,Petrol,Individual,Bus,60.55,106.98,6477.64,UPI,906,Mismatch,May
+TXN000908,2025-06-29,Maharashtra,Pune,ST017,Petrol,Individual,Bike,77.73,108.71,8450.03,UPI,907,Mismatch,June
+TXN000909,2025-01-29,Andhra Pradesh,Visakhapatnam,ST039,Diesel,Commercial,Bike,16.61,98.09,1629.27,Card,908,Mismatch,January
+TXN000910,2025-01-06,Andhra Pradesh,Visakhapatnam,ST021,Petrol,Individual,Bike,12.07,110.29,1331.2,Cash,909,Mismatch,January
+TXN000911,2025-06-24,Andhra Pradesh,Visakhapatnam,ST031,Petrol,Individual,Car,7.98,109.54,874.13,Cash,910,Mismatch,June
+TXN000912,2025-01-01,Maharashtra,Pune,ST041,Diesel,Individual,Auto,39.33,94.65,3722.58,Cash,911,Mismatch,January
+TXN000913,2025-01-27,Tamil Nadu,Chennai,ST002,Diesel,Commercial,Car,19.38,95.3,1846.91,Card,912,Mismatch,January
+TXN000914,2025-06-13,Karnataka,Bengaluru,ST030,Petrol,Individual,Bike,67.33,106.92,7198.92,Card,913,Mismatch,June
+TXN000915,2025-06-27,Andhra Pradesh,Visakhapatnam,ST034,Petrol,Individual,Bus,61.72,109.49,6757.72,Cash,914,Mismatch,June
+TXN000916,2025-02-07,Andhra Pradesh,Visakhapatnam,ST001,Petrol,Individual,Truck,35.42,106.82,3783.56,Card,915,Mismatch,February
+TXN000917,2025-06-09,Maharashtra,Pune,ST014,Petrol,Commercial,Bike,57.01,108.03,6158.79,Card,916,Mismatch,June
+TXN000918,2025-04-26,Andhra Pradesh,Visakhapatnam,ST005,E20,Individual,Truck,37.31,107.4,4007.09,Cash,917,Mismatch,April
+TXN000919,2025-04-04,Andhra Pradesh,Visakhapatnam,ST025,Diesel,Commercial,Auto,10.26,95.03,975.01,UPI,918,Mismatch,April
+TXN000920,2025-05-14,Andhra Pradesh,Visakhapatnam,ST029,E20,Individual,Auto,73.34,104.94,7696.3,UPI,919,Mismatch,May
+TXN000921,2025-06-25,Karnataka,Bengaluru,ST024,Diesel,Individual,Bike,25.69,96.9,2489.36,Cash,920,Mismatch,June
+TXN000922,2025-05-18,Andhra Pradesh,Visakhapatnam,ST032,Petrol,Individual,Auto,52.46,107.88,5659.38,Card,921,Mismatch,May
+TXN000923,2025-05-15,Maharashtra,Pune,ST029,E20,Individual,Bus,55.88,108.04,6037.28,UPI,922,Mismatch,May
+TXN000924,2025-06-28,Andhra Pradesh,Visakhapatnam,ST032,Diesel,Individual,Car,41.19,97.1,3999.55,UPI,923,Mismatch,June
+TXN000925,2025-02-16,Tamil Nadu,Chennai,ST006,E20,Individual,Truck,22.06,106.76,2355.13,Card,924,Mismatch,February
+TXN000926,2025-06-22,Andhra Pradesh,Visakhapatnam,ST026,Diesel,Commercial,Auto,79.56,95.86,7626.62,UPI,925,Mismatch,June
+TXN000927,2025-06-01,Maharashtra,Pune,ST043,E20,Individual,Car,38.92,107.33,4177.28,Card,926,Mismatch,June
+TXN000928,2025-03-16,Karnataka,Bengaluru,ST047,Diesel,Individual,Bus,11.16,97.05,1083.08,Card,927,Mismatch,March
+TXN000929,2025-01-25,Tamil Nadu,Chennai,ST021,E20,Commercial,Bike,24.3,106.07,2577.5,Cash,928,Mismatch,January
+TXN000930,2025-03-07,Telangana,Hyderabad,ST037,Petrol,Individual,Truck,13.67,109.8,1500.97,UPI,929,Mismatch,March
+TXN000931,2025-02-04,Karnataka,Bengaluru,ST042,Petrol,Commercial,Bus,55.65,109.82,6111.48,UPI,930,Mismatch,February
+TXN000932,2025-05-02,Telangana,Hyderabad,ST028,Petrol,Commercial,Bus,79.05,107.41,8490.76,UPI,931,Mismatch,May
+TXN000933,2025-01-22,Andhra Pradesh,Visakhapatnam,ST004,E20,Individual,Bus,65.94,105.51,6957.33,Cash,932,Mismatch,January
+TXN000934,2025-01-19,Maharashtra,Pune,ST027,E20,Commercial,Bus,50.47,106.02,5350.83,Card,933,Mismatch,January
+TXN000935,2025-03-20,Tamil Nadu,Chennai,ST004,Petrol,Commercial,Car,34.02,110.02,3742.88,Card,934,Mismatch,March
+TXN000936,2025-02-10,Karnataka,Bengaluru,ST019,E20,Commercial,Truck,39.46,105.48,4162.24,Cash,935,Mismatch,February
+TXN000937,2025-01-18,Maharashtra,Pune,ST027,Petrol,Individual,Car,34.12,107.41,3664.83,Cash,936,Mismatch,January
+TXN000938,2025-06-15,Karnataka,Bengaluru,ST027,Petrol,Individual,Car,15.82,107.67,1703.34,Cash,937,Mismatch,June
+TXN000939,2025-01-24,Telangana,Hyderabad,ST007,E20,Individual,Auto,13.78,106.74,1470.88,UPI,938,Mismatch,January
+TXN000940,2025-05-26,Karnataka,Bengaluru,ST004,Petrol,Individual,Auto,67.68,106.89,7234.32,Cash,939,Mismatch,May
+TXN000941,2025-04-27,Karnataka,Bengaluru,ST021,E20,Commercial,Bus,12.44,107.58,1338.3,Card,940,Mismatch,April
+TXN000942,2025-03-11,Andhra Pradesh,Visakhapatnam,ST037,E20,Individual,Truck,51.75,106.65,5519.14,UPI,941,Mismatch,March
+TXN000943,2025-02-05,Andhra Pradesh,Visakhapatnam,ST013,E20,Commercial,Auto,63.5,106.84,6784.34,Card,942,Mismatch,February
+TXN000944,2025-05-14,Tamil Nadu,Chennai,ST046,Diesel,Individual,Bus,12.68,97.6,1237.57,Cash,943,Mismatch,May
+TXN000945,2025-01-03,Tamil Nadu,Chennai,ST048,Petrol,Individual,Truck,28.57,107.64,3075.27,Card,944,Mismatch,January
+TXN000946,2025-06-29,Tamil Nadu,Chennai,ST011,E20,Commercial,Truck,72.51,105.47,7647.63,UPI,945,Mismatch,June
+TXN000947,2025-05-19,Karnataka,Bengaluru,ST025,E20,Individual,Bike,79.65,106.01,8443.7,UPI,946,Mismatch,May
+TXN000948,2025-05-04,Karnataka,Bengaluru,ST033,E20,Individual,Bike,72.92,108.09,7881.92,UPI,947,Mismatch,May
+TXN000949,2025-01-30,Andhra Pradesh,Visakhapatnam,ST039,Petrol,Individual,Truck,49.2,107.36,5282.11,UPI,948,Mismatch,January
+TXN000950,2025-06-20,Telangana,Hyderabad,ST013,Petrol,Commercial,Auto,69.49,107.7,7484.07,Cash,949,Mismatch,June
+TXN000951,2025-05-15,Karnataka,Bengaluru,ST015,E20,Individual,Car,37.54,107.24,4025.79,Cash,950,Mismatch,May
+TXN000952,2025-06-21,Maharashtra,Pune,ST050,Diesel,Individual,Auto,6.44,94.43,608.13,Card,951,Mismatch,June
+TXN000953,2025-04-24,Karnataka,Bengaluru,ST031,E20,Commercial,Auto,75.6,108.49,8201.84,Cash,952,Mismatch,April
+TXN000954,2025-01-15,Tamil Nadu,Chennai,ST029,E20,Individual,Bike,42.78,105.05,4494.04,Card,953,Mismatch,January
+TXN000955,2025-04-13,Tamil Nadu,Chennai,ST026,E20,Commercial,Bike,63.95,108.63,6946.89,Card,954,Mismatch,April
+TXN000956,2025-04-19,Telangana,Hyderabad,ST010,E20,Commercial,Bus,46.35,106.01,4913.56,UPI,955,Mismatch,April
+TXN000957,2025-06-02,Andhra Pradesh,Visakhapatnam,ST032,E20,Individual,Auto,58.13,108.48,6305.94,Card,956,Mismatch,June
+TXN000958,2025-03-24,Maharashtra,Pune,ST009,Petrol,Individual,Auto,22.99,107.64,2474.64,Card,957,Mismatch,March
+TXN000959,2025-01-12,Telangana,Hyderabad,ST039,Diesel,Individual,Auto,54.32,97.19,5279.36,Cash,958,Mismatch,January
+TXN000960,2025-02-14,Tamil Nadu,Chennai,ST007,Petrol,Commercial,Auto,12.29,108.37,1331.87,Cash,959,Mismatch,February
+TXN000961,2025-01-27,Telangana,Hyderabad,ST009,Petrol,Commercial,Auto,46.32,107.93,4999.32,UPI,960,Mismatch,January
+TXN000962,2025-04-08,Karnataka,Bengaluru,ST044,Petrol,Commercial,Bike,49.17,108.22,5321.18,UPI,961,Mismatch,April
+TXN000963,2025-06-09,Karnataka,Bengaluru,ST001,E20,Individual,Bike,61.77,108.09,6676.72,Card,962,Mismatch,June
+TXN000964,2025-02-01,Andhra Pradesh,Visakhapatnam,ST026,E20,Individual,Truck,52.68,105.98,5583.03,Card,963,Mismatch,February
+TXN000965,2025-06-25,Andhra Pradesh,Visakhapatnam,ST008,E20,Individual,Truck,12.09,104.9,1268.24,UPI,964,Mismatch,June
+TXN000966,2025-02-12,Karnataka,Bengaluru,ST038,Diesel,Commercial,Bike,20.61,94.38,1945.17,Cash,965,Mismatch,February
+TXN000967,2025-03-13,Karnataka,Bengaluru,ST018,E20,Commercial,Bike,6.65,107.13,712.41,Card,966,Mismatch,March
+TXN000968,2025-04-12,Tamil Nadu,Chennai,ST005,E20,Commercial,Car,41.44,107.44,4452.31,Cash,967,Mismatch,April
+TXN000969,2025-02-08,Tamil Nadu,Chennai,ST013,E20,Commercial,Auto,72.11,108.12,7796.53,Card,968,Mismatch,February
+TXN000970,2025-02-18,Karnataka,Bengaluru,ST017,Diesel,Commercial,Car,70.07,94.27,6605.5,Card,969,Mismatch,February
+TXN000971,2025-03-24,Tamil Nadu,Chennai,ST013,Diesel,Commercial,Auto,53.37,96.67,5159.28,UPI,970,Mismatch,March
+TXN000972,2025-01-13,Karnataka,Bengaluru,ST003,E20,Individual,Truck,50.96,105.1,5355.9,UPI,971,Mismatch,January
+TXN000973,2025-01-30,Karnataka,Bengaluru,ST025,Petrol,Individual,Car,62.6,106.88,6690.69,Cash,972,Mismatch,January
+TXN000974,2025-05-01,Telangana,Hyderabad,ST007,Petrol,Commercial,Car,64.28,108.98,7005.23,UPI,973,Mismatch,May
+TXN000975,2025-06-10,Karnataka,Bengaluru,ST040,Petrol,Individual,Car,72.49,107.26,7775.28,UPI,974,Mismatch,June
+TXN000976,2025-05-06,Telangana,Hyderabad,ST033,Petrol,Commercial,Auto,20.8,108.04,2247.23,Card,975,Mismatch,May
+TXN000977,2025-03-31,Maharashtra,Pune,ST049,E20,Commercial,Bike,41.68,106.87,4454.34,Card,976,Mismatch,March
+TXN000978,2025-02-04,Karnataka,Bengaluru,ST014,Diesel,Commercial,Bus,5.66,94.46,534.64,Cash,977,Mismatch,February
+TXN000979,2025-02-28,Tamil Nadu,Chennai,ST023,Petrol,Individual,Car,60.7,108.74,6600.52,Cash,978,Mismatch,February
+TXN000980,2025-06-19,Maharashtra,Pune,ST043,E20,Individual,Car,54.0,107.92,5827.68,UPI,979,Mismatch,June
+TXN000981,2025-03-08,Telangana,Hyderabad,ST042,Petrol,Individual,Bus,35.79,109.32,3912.56,Cash,980,Mismatch,March
+TXN000982,2025-03-23,Karnataka,Bengaluru,ST002,Petrol,Individual,Auto,14.38,109.41,1573.32,UPI,981,Mismatch,March
+TXN000983,2025-01-15,Maharashtra,Pune,ST009,E20,Commercial,Car,19.31,104.92,2026.01,UPI,982,Mismatch,January
+TXN000984,2025-05-16,Karnataka,Bengaluru,ST005,E20,Commercial,Truck,13.32,107.74,1435.1,Card,983,Mismatch,May
+TXN000985,2025-02-21,Karnataka,Bengaluru,ST014,Diesel,Commercial,Truck,19.57,94.46,1848.58,UPI,984,Mismatch,February
+TXN000986,2025-03-14,Andhra Pradesh,Visakhapatnam,ST024,Diesel,Individual,Bus,30.77,97.77,3008.38,UPI,985,Mismatch,March
+TXN000987,2025-05-22,Karnataka,Bengaluru,ST026,Diesel,Commercial,Car,23.77,94.75,2252.21,UPI,986,Mismatch,May
+TXN000988,2025-01-15,Maharashtra,Pune,ST014,Diesel,Commercial,Auto,31.29,96.71,3026.06,Cash,987,Mismatch,January
+TXN000989,2025-06-06,Tamil Nadu,Chennai,ST020,Diesel,Individual,Bike,28.01,94.35,2642.74,Cash,988,Mismatch,June
+TXN000990,2025-03-28,Karnataka,Bengaluru,ST023,Petrol,Commercial,Bus,35.21,108.48,3819.58,UPI,989,Mismatch,March
+TXN000991,2025-05-30,Andhra Pradesh,Visakhapatnam,ST030,Diesel,Individual,Bike,52.11,95.44,4973.38,UPI,990,Mismatch,May
+TXN000992,2025-03-16,Maharashtra,Pune,ST013,Diesel,Commercial,Bike,14.02,96.29,1349.99,Cash,991,Mismatch,March
+TXN000993,2025-01-29,Tamil Nadu,Chennai,ST015,Petrol,Commercial,Truck,37.43,108.82,4073.13,Card,992,Mismatch,January
+TXN000994,2025-03-31,Tamil Nadu,Chennai,ST045,Petrol,Commercial,Truck,8.51,109.43,931.25,UPI,993,Mismatch,March
+TXN000995,2025-05-04,Andhra Pradesh,Visakhapatnam,ST038,Petrol,Individual,Bike,76.92,109.38,8413.51,Card,994,Mismatch,May
+TXN000996,2025-04-14,Maharashtra,Pune,ST006,Petrol,Individual,Bus,63.12,108.68,6859.88,Card,995,Mismatch,April
+TXN000997,2025-01-21,Karnataka,Bengaluru,ST001,E20,Individual,Car,35.38,106.0,3750.28,Card,996,Mismatch,January
+TXN000998,2025-04-09,Andhra Pradesh,Visakhapatnam,ST024,Diesel,Commercial,Car,62.85,94.27,5924.87,Card,997,Mismatch,April
+TXN000999,2025-05-05,Telangana,Hyderabad,ST019,Diesel,Individual,Bus,58.05,97.33,5650.01,Card,998,Mismatch,May
+TXN001000,2025-01-31,Telangana,Hyderabad,ST047,E20,Individual,Auto,57.25,107.4,6148.65,UPI,999,Mismatch,January
